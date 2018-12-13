@@ -4,16 +4,14 @@
 
 Curious about myself, others and the world - Native French - Conversational Russian
 
-A curious, self-driven and perseverant  **Full Stack Junior Developer** looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy. Derived from my passion and involvement in tech, entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities.
+A curious, self-driven and perseverant  **Full Stack Junior Developer** who grew from studying vocatinal electronics up to a Master in business engineering in various countries and languages. Derived from my passion and involvement in tech, entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. Now, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy. 
 
 **Tech Skills** : Ruby
 
-***
 ## Projects
 
 Under construction at [Makers Academy](https://github.com/makersacademy)
 
-***
 ## Skills
 
 #### Self-driven - Perseverant
@@ -38,7 +36,6 @@ As a project buyer of electronic components at Schneider Electric, I was involve
 
 My experiences are very diverse, also because my journey is self-funded. It means that I worked during my studies and that at some point I could have meetings during the day with Oxford Business School MBA students social entrepreneurs willing to make a better world and on the evening I was working with people from low wage European countries trying to climb the social ladder. Added to the diversity of environments I evolved in enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. This really helps me to research, to analyze data, to make decision, to think critically, to be creative and to communicate efficiently.
 
-***
 ## Education
 
 #### Software Engineering - Makers Academy (2018 to 2019)
@@ -64,7 +61,6 @@ A 16-week intensive development bootcamp, focusing on :
 - Aeronautics: assisted in maintenance operations on helicopters.
 - Previous Diplomas: BTEC National Diploma, BTEC First Diploma of Electronics.
 
-***
 ## Experience
 
 **Community Coordinator and Facilitator - Freelance - MakeSense - Freeformers - Itakepart** (2016 to 2018)
@@ -91,7 +87,6 @@ A 16-week intensive development bootcamp, focusing on :
 
 - Organized, promoted and created content for Schneider Electric workshop during the AIESEC International Congress that resulted in 4 innovative concepts to enhance the company’s goals.
 
-***
 ## Interests
 
 - Personal Development - Swimming – Hiking – Meditating - Chasing social innovations
