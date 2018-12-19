@@ -4,7 +4,7 @@
 
 Curious about myself, others and the world - Native French - Conversational Russian
 
-A curious, self-driven and perseverant  **Full Stack Junior Developer** who grew from studying vocatinal electronics up to a Master in business engineering in various countries and languages. Derived from my passion and involvement in tech, entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. Now, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy. 
+A curious, self-driven and perseverant **Junior Developer** who grew from studying vocational electronics up to a Master in business engineering, fascinated by technologies and languages. Derived from my passion and involvement in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. Now, studying software development at Makers Academy, I am looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and drive social progress.   
 
 **Tech Skills** : Ruby
 
@@ -22,7 +22,7 @@ Under construction at [Makers Academy](https://github.com/makersacademy)
 
 When I attended my first design thinking workshop focused on helping social entrepreneurs I was fascinated by how enjoyable and efficient it was to energize people and co-create ideas. I decided to become proficient. I got closed to the core team, I met the leaders, I co-organized events with them and learn on my own. 6 months later, I impressed those leaders, I led events on my own and even one that was bigger than they ever organized in London.
 
-I wanted to explore the BRICS countries, I lived in Russia as part of my business studies. At the beginning, I knew  the alphabet, I was determined to have a work experience there, so I took all opportunities to improve my language skills and to understand the culture, I went to more course than necessary, I offered language exchange over 20h a week and I went to plenty of dance classes and meetups. I impressed the locals and got a working experience (and the visa required for it). 
+I wanted to explore the BRICS countries, I went to live in Russia as part of my business studies. When I arrived, I knew only the alphabet, I was determined to have a work experience there, so I seized all opportunities to improve my language skills and to understand the culture,  I took additional courses, I offered a lot of language exchanges and I went to plenty of meetups. I impressed the locals, I grew my network and I got a working experience. 
 
 #### Thrives Under Pressure - Resourceful
 
@@ -30,11 +30,11 @@ At Makesense, once I got some facilitation skills, my objective was to organize 
 
 #### Team Player - Excellent Communicator
 
-As a project buyer of electronic components at Schneider Electric, I was involved in a team in the R&D center, our goal was to standardize electronic components and blueprints in order to reduce costs and increase agility. My objective was to build a tool that enables each stakeholder to access the relevant data from different sources for each component or module. The other objective was to convince everyone to use it. I met each stakeholder, I gathered the data relevant to each of them. The tool I created was relevant to each stakeholder, they used it in their decision making process and the number of references was reduced.
+As a project buyer of electronic components at Schneider Electric, I was involved in a team in the R&D center, our goal was to standardize electronic components and blueprints in order to reduce costs and increase agility. My first objective was to build a tool that enables each stakeholder to access the relevant data from different sources for each component or module. The second objective was to convince everyone to use it. I met each stakeholder and gathered the relevant data. Thanks to those successful collaborations I created a tool that simplified and fastened a complex decision-making process as well as reduced the number of references was reduced.
 
 #### Analytical thinker
 
-My experiences are very diverse, also because my journey is self-funded. It means that I worked during my studies and that at some point I could have meetings during the day with Oxford Business School MBA students social entrepreneurs willing to make a better world and on the evening I was working with people from low wage European countries trying to climb the social ladder. Added to the diversity of environments I evolved in enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. This really helps me to research, to analyze data, to make decision, to think critically, to be creative and to communicate efficiently.
+My experiences are very diverse, also because my journey is self-funded. I worked during my studies and at some point, I could have meetings during the day with Oxford Business School MBA students, emerging social entrepreneurs, while on the evening I was working with people from low wage European countries trying to climb the social ladder. This diversity enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. Collaborators in various projects highlighted my abilities to research, to analyze data, to make decisions, to think critically, to be creative and to communicate efficiently. 
 
 ## Education
 
@@ -42,10 +42,12 @@ My experiences are very diverse, also because my journey is self-funded. It mean
 
 A 16-week intensive development bootcamp, focusing on :
 
+- Learning and problem solving
+- Software Craftsmanship 
 - Agile methodologies
-- Object-oriented design
-- Test driven development and behaviour driven development
+- OOP, TDD, Object Oriented Design
 - Pair programming
+- Ruby, Rails, Javascript
 
 #### MSc in Business Engineering - KEDGE Business School (2010 to 2013)
 
@@ -72,7 +74,6 @@ A 16-week intensive development bootcamp, focusing on :
 
 **Business Development and Consulting - Freelance - MJB Graham** (2014 to 2015)
 
-- Advised start-ups on business models, strategy, and innovation.
 - Led 50+ consultations to structure and improve offers, sales channels, processes and pitches.
 - Instigated partnerships with businesses and communities to reach the companies’ target audience.
 - Acquired prospects from face to face and online networking to conclude deals using a CRM system.
@@ -90,7 +91,11 @@ A 16-week intensive development bootcamp, focusing on :
 ## Interests
 
 - Personal Development - Swimming – Hiking – Meditating - Chasing social innovations
-- Enrol Yourself - Learning Marathon (2018)
-    - Peer-led learning accelerator, focused on “How to cultivate social impact leadership?”
-- u.lab: Leading From the Emerging Future (2017)
-    - Experiential learning to lead profound social, environmental and personal transformation using .
+
+#### Peer-led learning accelerator - Enrol Yourself - Learning Marathon (2018)
+- Researched and experimented on ways to cultivate social impact leadership.
+- Led experiential workshops about intention, self-discipline and actions.
+
+#### Experiential learning - u.lab: Leading From the Emerging Future (2017)
+- Explored systems leadership to address today’s complex societal challenges.
+- Co-created experiments focusing on social, environmental and personal transformation.
