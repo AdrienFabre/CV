@@ -1,6 +1,6 @@
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Website](http://adrienfabre.net/) | [Codewars](https://www.codewars.com/users/AdrienFabre)
 
-## Adrien Fabre - About me
+## About
 
 Curious about myself, others and the world - Native French - Conversational Russian
 
