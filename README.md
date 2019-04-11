@@ -1,16 +1,36 @@
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Website](http://adrienfabre.net/) | [Codewars](https://www.codewars.com/users/AdrienFabre)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Website](http://adrienfabre.net/) | [Codewars](https://www.codewars.com/users/AdrienFabre) | [Makers_portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) | [Medium_blogs](https://medium.com/@AdrienFabre) 
 
 ## About
 
 Curious about myself, others and the world - Native French - Conversational Russian
 
-A curious, self-driven and perseverant **Junior Developer** who grew from studying vocational electronics up to a Master in business engineering, fascinated by technologies and languages. Derived from my passion and involvement in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. Now, studying software development at Makers Academy, I am looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and drive social progress.   
+A curious, self-driven and perseverant **Junior Software Engineer** who grew from studying vocational electronics up to a Master in business engineering, fascinated by technologies and languages. Derived from my passion and involvement in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. Now, studying software development at Makers Academy, I am looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and drive social progress.   
 
 **Tech Skills** : Ruby
 
 ## Projects
 
-Under construction at [Makers Academy](https://github.com/makersacademy)
+All projects have been part of my learning at [Makers Academy](https://github.com/makersacademy)
+
+The focus has been to learn to learn fast and to implement the best practices, notably TDD. 
+
+Here is the [Makers_portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) I created to anchore my learnings.
+
+[Minimalist version of Trello with a chat in React + Firebase ](https://github.com/what-zen/what-zen-app)
+
+[Minimalist version of Facebook in Rails](https://github.com/simian-sinister/Acebook-Simian-Sinister)
+
+[Minimalist version of AirBnB in React + Express + Node + PostgreSQL](https://github.com/AdrienFabre/makersbnb)
+
+[Takeaway challenge in Ruby](https://github.com/AdrienFabre/takeaway-challenge-ruby)
+
+[Airport challenge in Javascript](https://github.com/AdrienFabre/airport_challenge_js)
+
+[Bank challenge in Ruby](https://github.com/AdrienFabre/bank_tech_test_ruby)
+
+[Echo challenge in Ruby](https://github.com/AdrienFabre/echo_ruby)
+
+[Shop challenge in Ruby](https://github.com/AdrienFabre/shop_ruby)
 
 ## Skills
 
