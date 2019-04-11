@@ -1,4 +1,4 @@
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Website](http://adrienfabre.net/) | [Codewars](https://www.codewars.com/users/AdrienFabre) | [Makers_portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) | [Medium_blogs](https://medium.com/@AdrienFabre) 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Website](http://adrienfabre.net/) | [Codewars](https://www.codewars.com/users/AdrienFabre) | [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) | [Medium_blogs](https://medium.com/@AdrienFabre) 
 
 ## About
 
@@ -12,9 +12,9 @@ A curious, self-driven and perseverant **Junior Software Engineer** who grew fro
 
 All projects have been part of my learning at [Makers Academy](https://github.com/makersacademy)
 
-The focus has been to learn to learn fast and to implement the best practices, notably TDD. 
+The focus has been to learn to learn fast and to implement the best practices, notably Test Driven Development and Agile. 
 
-Here is the [Makers_portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) I created to anchore my learnings.
+Here is the [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) I created to anchore my learnings.
 
 [Minimalist version of Trello with a chat in React + Firebase ](https://github.com/what-zen/what-zen-app)
 
