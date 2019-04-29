@@ -1,4 +1,4 @@
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Website](http://adrienfabre.net/) | [Codewars](https://www.codewars.com/users/AdrienFabre) | [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) | [Medium_blogs](https://medium.com/@AdrienFabre) 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Website](http://adrienfabre.net/) | [Codewars](https://www.codewars.com/users/AdrienFabre) | [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) | [Medium](https://medium.com/@AdrienFabre) | [Exercism](https://exercism.io/profiles/AdrienFabre) | [Codeacademy](https://www.codecademy.com/AdrienFabre) | [Sololearn](https://www.sololearn.com/Profile/5164575)
 
 ## About
 
@@ -6,7 +6,7 @@ Curious about myself, others and the world - Native French - Conversational Russ
 
 A curious, self-driven and perseverant **Junior Software Engineer** who grew from studying vocational electronics up to a Master in business engineering, fascinated by technologies and languages. Derived from my passion and involvement in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. Now, studying software development at Makers Academy, I am looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and drive social progress.   
 
-**Tech Skills** : Ruby
+**Tech Skills** : Ruby - Javascript - Test Driven Development - Object Oriented Programming - Agile 
 
 ## Projects
 
@@ -64,10 +64,10 @@ A 16-week intensive development bootcamp, focusing on :
 
 - Learning and problem solving
 - Software Craftsmanship 
-- Agile methodologies
+- Agile methodologies, Scrum
 - OOP, TDD, Object Oriented Design
 - Pair programming
-- Ruby, Rails, Javascript
+- Ruby, Rails, Javascript, React
 
 #### MSc in Business Engineering - KEDGE Business School (2010 to 2013)
 
