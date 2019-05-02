@@ -1,6 +1,6 @@
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Feedback](#feedback) 
+CV shortcuts: [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Feedback](#feedback) 
 
-[Website](http://adrienfabre.net/) | [Codewars](https://www.codewars.com/users/AdrienFabre) | [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) | [Medium](https://medium.com/@AdrienFabre) | [Exercism](https://exercism.io/profiles/AdrienFabre) | [Codeacademy](https://www.codecademy.com/AdrienFabre) | [Sololearn](https://www.sololearn.com/Profile/5164575)
+Further info: [Website](http://adrienfabre.net/) | [Codewars](https://www.codewars.com/users/AdrienFabre) | [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) | [Medium](https://medium.com/@AdrienFabre) | [Exercism](https://exercism.io/profiles/AdrienFabre) | [Codeacademy](https://www.codecademy.com/AdrienFabre) | [Sololearn](https://www.sololearn.com/Profile/5164575)
 
 ## About
 
@@ -38,7 +38,7 @@ The focus has been to learn to learn fast and to implement the best practices, n
 
 #### Ruby and RSpec
 
-- [Minimalist version of Instagram](https://github.com/AdrienFabre/instagram-challenge)
+- [Minimalist version of Instagram](https://github.com/AdrienFabre/instagram-challenge) with Rails and Devise
 
 - [Takeaway challenge](https://github.com/AdrienFabre/takeaway-challenge-ruby)
 
@@ -82,10 +82,9 @@ My experience at the Makers software engineering bootcamp strongly enhanced my p
 
 A 16-week intensive development bootcamp, focusing on :
 
-- Learning fast new technologies, programming languages, methodologies and effective collaborations
-- Problem solving, individually, as a pair or as a group, encouraging feedback and sharing learnings
-- Agile and XP values, Scrum methodology, making sure there are opportunities for everyone to contribute
-- Pair programming, 
+  - Learning fast new technologies, programming languages, methodologies and effective collaborations
+  - Problem solving, individually, as a pair or as a group, encouraging feedback and sharing learnings
+  - Agile and XP values, Scrum methodology, Pair programming. Respecting my pair partners/team mates, having the Courage to give Feedback, to Communicate and keep things Simple keeps the team efficient.
 
 - Object Oriented Programming
 - Test Driven Development / Behavior Driven Development
@@ -144,7 +143,12 @@ A 16-week intensive development bootcamp, focusing on :
 
 ## Interests
 
-- Personal Development - Swimming – Hiking - Yoga – Meditating - Chasing social innovations
+- Personal Development - anything that enhance my understanding of myself
+- Swimming - I recently swam over 3k in 1h10, I keep practicing
+- Hiking - Everywhere - Pyrenees(home) is my playground
+- Yoga - Streching my body as much as my mind - Twice a week since January
+- Meditating - Daily as much I can - Last year I did a week retreat in Scotland
+- Chasing social innovations - anything that enhance my contribution in this world
 
 #### Peer-led learning accelerator - Enrol Yourself - Learning Marathon (2018)
 - Researched and experimented on ways to cultivate social impact leadership.
