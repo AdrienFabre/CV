@@ -4,33 +4,45 @@
 
 Curious about myself, others and the world - Native French - Conversational Russian
 
-A curious, self-driven and perseverant **Junior Software Engineer** who grew from studying vocational electronics up to a Master in business engineering, fascinated by technologies and languages. Derived from my passion and involvement in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. Now, studying software development at Makers Academy, I am looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and drive social progress.   
+A curious, self-driven and perseverant **Junior Software Engineer** who grew from studying vocational electronics up to a Master in business engineering, fascinated by technologies and languages. Derived from my passion and involvement in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. I have just graduated from Makers software engineering bootcamp, I am looking for a role where I can consolidate and extend my programming knowledge, notably compiled language, while also gaining exposure to product management and DevOps. A place where I can contribute to a culture of innovation, progress and diversity.
 
 **Tech Skills** : Ruby - Javascript - Test Driven Development - Object Oriented Programming - Agile 
 
 ## Projects
 
-All projects have been part of my learning at [Makers Academy](https://github.com/makersacademy)
+All projects have been part of my learnings at [Makers Academy](https://github.com/makersacademy)
 
-The focus has been to learn to learn fast and to implement the best practices, notably Test Driven Development and Agile. 
+The focus has been to learn to learn fast and to implement the best practices, notably Test Driven Development and Agile values. Here is the [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) I created to anchore my learnings.
 
-Here is the [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) I created to anchore my learnings.
 
-[Minimalist version of Trello with a chat in React + Firebase ](https://github.com/what-zen/what-zen-app)
+#### Full Stack Team Projects - Team members feedback at the bottom this page
 
-[Minimalist version of Facebook in Rails](https://github.com/simian-sinister/Acebook-Simian-Sinister)
+- [Minimalist version of Trello with a chat in React + Firebase ](https://github.com/what-zen/what-zen-app)
 
-[Minimalist version of AirBnB in React + Express + Node + PostgreSQL](https://github.com/AdrienFabre/makersbnb)
+- [Minimalist version of Facebook in Rails](https://github.com/simian-sinister/Acebook-Simian-Sinister)
 
-[Takeaway challenge in Ruby](https://github.com/AdrienFabre/takeaway-challenge-ruby)
+- [Minimalist version of AirBnB in React + Express + Node + PostgreSQL](https://github.com/AdrienFabre/makersbnb)
 
-[Airport challenge in Javascript](https://github.com/AdrienFabre/airport_challenge_js)
 
-[Bank challenge in Ruby](https://github.com/AdrienFabre/bank_tech_test_ruby)
+#### TypeScript
 
-[Echo challenge in Ruby](https://github.com/AdrienFabre/echo_ruby)
+- [Bowling challenge](https://github.com/AdrienFabre/bowling-typescript)
 
-[Shop challenge in Ruby](https://github.com/AdrienFabre/shop_ruby)
+#### JavaScript
+
+- [Airport challenge](https://github.com/AdrienFabre/airport_challenge_js)
+
+#### Ruby
+
+- [Minimalist version of Instagram](https://github.com/AdrienFabre/instagram-challenge)
+
+- [Takeaway challenge](https://github.com/AdrienFabre/takeaway-challenge-ruby)
+
+- [Bank challenge](https://github.com/AdrienFabre/bank_tech_test_ruby)
+
+- [Echo challenge](https://github.com/AdrienFabre/echo_ruby)
+
+- [Shop challenge](https://github.com/AdrienFabre/shop_ruby)
 
 ## Skills
 
@@ -119,3 +131,42 @@ A 16-week intensive development bootcamp, focusing on :
 #### Experiential learning - u.lab: Leading From the Emerging Future (2017)
 - Explored systems leadership to address today’s complex societal challenges.
 - Co-created experiments focusing on social, environmental and personal transformation.
+
+## Feedback
+
+In addition to the following feedback I kept practicing on [Exercism](https://exercism.io/profiles/AdrienFabre) to get precise feedback on my code and improve my refactoring skills.
+
+- Diptis Hadler - Student at Makers - Collaborated on What Zen, the final project
+
+"I was in Team What Zen with Adrien for our final project. I was very impressed with Adrien's contributions in all aspects to the project.
+
+In general he led the ideation and planning sessions that we had, writing notes and diagrams on the whiteboard to capture the salient points from the discussions we were having as a team. This helped us to focus on the key issues and explore ideas more effectively. I particularly liked the way he would ensure that the voice of everyone in the team was heard so that the any decisions the team would make would be achieved through consensus. This aligned well with the goal of our What Zen product.
+
+In some planning sessions he showed his skills in abstracting and modelling our proposed solution in diagrams. Again this helped us all to visualise our product as a team and progress towards solutions.
+
+It was clear that he can code fluently as soon after we settled on the technology stack we would use he did a large part of the code to reach our MVP. He then built on that and improved features, especially on the look and feel of the front-end, showing his skill in refactoring the initial deliverables.
+
+His approach to creating new software is very methodical and while we did not do as much formal TDD in this project as we had hoped we were nonetheless working in a very logical way together, and Adrien can take a lot of credit in keeping the team aligned in that way.
+
+In the second week of the project our team worked very well following Agile processes and Adrien's contribution was a key factor in achieving this. He made sure that we performed the necessary Agile ceremonies and that we iterated and collaborated in our work. I was also glad for the quality of the planning and feedback he gave to us all as we prepared the presentation and demo of our product. This helped to make the last two days of the project very rewarding for me personally.
+
+When it came to investigating new technologies and testing them out he showed his keenness and ability in learning by himself. He got some example code working very quickly by following tutorials and other online resources. When he shared and explained his work it helped the team to understand the possibilities and challenges involved with those technologies.
+
+- Dan Groze - Student at Makers - Collaborated on What Zen, the final project
+
+"I really enjoyed working with you, having spent a difficult week on our Task manager app, being on a deadline and having to learn several new technologies, you were always positive and helped the team a lot with researching."
+
+- Sherif Shendidy - Student at Makers - Collaborated on What Zen, the final project
+
+"You were also a great team player, with great sense of humer and ability engage in a focused fruitful conversation to solve problems and plan for the works ahead of us."
+
+- Sam Morgan - Makers' Head of Education
+
+"You program fast and fluidly, move quickly around the process, and have inventive and thoughtful approaches to solving tough problems."
+
+- Rohan Metha - from MakeSense (an open source volunteer-driven network creating design thinking events to support social entrepreneurs)
+
+"Very soon after attending his first event he was eager to jump on board and learn how to facilitate one of our workshops. By conducting these workshops he got to deeply understand several social entrepreneurs and help them figure out how to improve their business. He did these extremely well and soon became part of the core team. 6 months after he attended his first MakeSense workshop Adrien was the lead in organising a large-scale event “Food Glorious Food” tackling food waste with a full day event with workshops, activities, and talks featuring 12 different social entrepreneurs in the food sustainability sector. Adrien found the venue, negotiated using it for free, came up with the concept, created the marketing materials and was directing 6 other volunteers to pull off a really successful event.
+
+Adrien demonstrates a really strong work ethic. If he says he will do something he will go to great lengths to make sure it gets done. I have also found that he learns very quickly. If he is interested in something he will dive head first into it, contacting people to talk to and create opportunities to learn as much as he can by doing. He is a self-starter and very good at finding ways to improve the ways we work together."
+
