@@ -1,6 +1,6 @@
 CV shortcuts: [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Feedback](#feedback) 
 
-Further info: [Website](http://adrienfabre.net/) | [Codewars](https://www.codewars.com/users/AdrienFabre) | [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) | [Medium](https://medium.com/@AdrienFabre) | [Exercism](https://exercism.io/profiles/AdrienFabre) | [Codeacademy](https://www.codecademy.com/AdrienFabre) | [Sololearn](https://www.sololearn.com/Profile/5164575)
+Further info: [Website](http://adrienfabre.dev/) | [Codewars](https://www.codewars.com/users/AdrienFabre) | [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) | [Medium](https://medium.com/@AdrienFabre) | [Exercism](https://exercism.io/profiles/AdrienFabre) | [Codeacademy](https://www.codecademy.com/AdrienFabre) | [Sololearn](https://www.sololearn.com/Profile/5164575)
 
 ## About
 
