@@ -25,7 +25,7 @@ The focus has been to learn to learn fast and to implement the best practices, n
 - Ruby on Rails - PostgreSQL Database - Active Record ORM - Devise Authentification - Capybara - RSpec
   - [Minimalist version of Facebook](https://github.com/simian-sinister/Acebook-Simian-Sinister) 
 
-- React - PostgreSQL Database - Sequelize ORM - Express - Node - Express - Node - Cypress - Jasmine
+- React - PostgreSQL Database - Sequelizer ORM - Express - Node - Express - Node - Cypress - Jasmine
   - [Minimalist version of AirBnB](https://github.com/AdrienFabre/makersbnb)
 
 #### TypeScript and Jest
@@ -81,7 +81,6 @@ My experience at the Makers software engineering bootcamp strongly enhanced my p
 #### Software Engineering - Makers Academy (2018 to 2019)
 
 A 16-week intensive development bootcamp, focusing on :
-
   - Learning fast new technologies, programming languages, methodologies and effective collaborations
   - Problem solving, individually, as a pair or as a group, encouraging feedback and sharing learnings
   - Agile and XP values, Scrum methodology, Pair programming. Respecting my pair partners/team mates, having the Courage to give Feedback, to Communicate and keep things Simple keeps the team efficient.
@@ -93,14 +92,8 @@ A 16-week intensive development bootcamp, focusing on :
 
 - Database management(PostgreSQL)
 - ORM ( Sequlizer, ActiveRecord )
-- Ruby/Rails
-  - RSpec
-  - Sinatra
-  - Capybara/Selenium
-- JavaScript
-  - React
-  - Jasmine
-  - Jest/cypress
+- Ruby - Rails - RSpec - Sinatra - Capybara - Selenium
+- JavaScript - React - Jasmine - Jest - Cypress
 
 #### MSc in Business Engineering - KEDGE Business School (2010 to 2013)
 
