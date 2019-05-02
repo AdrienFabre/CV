@@ -142,12 +142,11 @@ A 16-week intensive development bootcamp, focusing on :
 - Organized, promoted and created content for Schneider Electric workshop during the AIESEC International Congress that resulted in 4 innovative concepts to enhance the company’s goals.
 
 ## Interests
-
-- Personal Development - anything that enhance my understanding of myself
 - Swimming - I recently swam over 3k in 1h10, I keep practicing
 - Hiking - Everywhere - Pyrenees(home) is my playground
 - Yoga - Streching my body as much as my mind - Twice a week since January
 - Meditating - Daily as much I can - Last year I did a week retreat in Scotland
+- Personal Development - anything that enhance my understanding of myself
 - Chasing social innovations - anything that enhance my contribution in this world
 
 #### Peer-led learning accelerator - Enrol Yourself - Learning Marathon (2018)
