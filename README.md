@@ -6,7 +6,7 @@ Further info: [Website](http://adrienfabre.dev/) | [Codewars](https://www.codewa
 
 Curious about myself, others and the world - Native French - Conversational Russian
 
-A curious, self-driven and perseverant **Junior Software Engineer** who grew from studying vocational electronics up to a Master in business engineering, fascinated by technologies and languages. Derived from my passion and involvement in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. I have just graduated from Makers software engineering bootcamp, I am looking for a role where I can consolidate and extend my programming knowledge, notably compiled language, while also gaining exposure to product management and DevOps. A place where I can contribute to a culture of innovation, progress and diversity.
+A curious, self-driven and perseverant **Junior Software Engineer** who grew from studying vocational electronics up to a Master in business engineering, fascinated by technologies and languages. Derived from my passion and involvement in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. I have just graduated from Makers software engineering bootcamp, I am looking for a role where I can consolidate and extend my programming knowledge, notably in a compiled language, while also gaining exposure to product management and DevOps. A place where I can contribute to a culture of innovation, progress and diversity.
 
 **Tech Skills** : Ruby - Javascript - Test Driven Development - Object Oriented Programming - Agile 
 
