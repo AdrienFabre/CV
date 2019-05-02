@@ -176,15 +176,21 @@ His approach to creating new software is very methodical and while we did not do
 
 In the second week of the project our team worked very well following Agile processes and Adrien's contribution was a key factor in achieving this. He made sure that we performed the necessary Agile ceremonies and that we iterated and collaborated in our work. I was also glad for the quality of the planning and feedback he gave to us all as we prepared the presentation and demo of our product. This helped to make the last two days of the project very rewarding for me personally.
 
-When it came to investigating new technologies and testing them out he showed his keenness and ability in learning by himself. He got some example code working very quickly by following tutorials and other online resources. When he shared and explained his work it helped the team to understand the possibilities and challenges involved with those technologies.
+When it came to investigating new technologies and testing them out he showed his keenness and ability in learning by himself. He got some example code working very quickly by following tutorials and other online resources. When he shared and explained his work it helped the team to understand the possibilities and challenges involved with those technologies."
 
 #### Dan Groze - Student at Makers - Collaborated on What Zen, the final project
 
-"I really enjoyed working with you, having spent a difficult week on our Task manager app, being on a deadline and having to learn several new technologies, you were always positive and helped the team a lot with researching."
+"I like that you always start tackling a problem with lots of planning, you are a master at diagramming and modelling. This helped all our team during our final project to understand our task better.
+
+I really enjoyed working with you, having spent a difficult week on our Task manager app, being on a deadline and having to learn several new technologies, you were always positive and helped the team a lot with researching."
 
 #### Sherif Shendidy - Student at Makers - Collaborated on What Zen, the final project
 
-"You were also a great team player, with great sense of humer and ability engage in a focused fruitful conversation to solve problems and plan for the works ahead of us."
+"It was a real pleasure working with you on our final project at Makers. You were so dedicated, your thoughts were very organised, and it was so helpful the way you diagrammed the options we had and plans/routes we can follow to deliver the required feature.
+
+I liked and respected how brave you were in making decisions involving the use of tools and technologies that we didn’t know even when the time frame we had we so tight, then how focused you were in learning them and successfully implementing them in our project.
+
+You were also a great team player, with great sense of humer and ability engage in a focused fruitful conversation to solve problems and plan for the works ahead of us."
 
 #### Sam Morgan - Makers' Head of Education
 
