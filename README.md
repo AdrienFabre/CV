@@ -17,22 +17,24 @@ The focus has been to learn to learn fast and to implement the best practices, n
 
 #### Full Stack Team Projects - Team members feedback at the bottom this page
 
-- [Minimalist version of Trello with a chat in React + Firebase ](https://github.com/what-zen/what-zen-app)
+- React - Firebase Database and Authentification - Cypress
+  - [Minimalist version of Trello with a chat](https://github.com/what-zen/what-zen-app)
 
-- [Minimalist version of Facebook in Rails](https://github.com/simian-sinister/Acebook-Simian-Sinister)
+- Ruby on Rails - PostgreSQL Database - Active Record ORM - Devise Authentification - Capybara - RSpec
+  - [Minimalist version of Facebook](https://github.com/simian-sinister/Acebook-Simian-Sinister) 
 
-- [Minimalist version of AirBnB in React + Express + Node + PostgreSQL](https://github.com/AdrienFabre/makersbnb)
+- React - PostgreSQL Database - Sequelize ORM - Express - Node - Express - Node - Cypress - Jasmine
+  - [Minimalist version of AirBnB](https://github.com/AdrienFabre/makersbnb)
 
-
-#### TypeScript
+#### TypeScript and Jest
 
 - [Bowling challenge](https://github.com/AdrienFabre/bowling-typescript)
 
-#### JavaScript
+#### JavaScript and Jasmine
 
 - [Airport challenge](https://github.com/AdrienFabre/airport_challenge_js)
 
-#### Ruby
+#### Ruby and RSpec
 
 - [Minimalist version of Instagram](https://github.com/AdrienFabre/instagram-challenge)
 
@@ -68,18 +70,36 @@ As a project buyer of electronic components at Schneider Electric, I was involve
 
 My experiences are very diverse, also because my journey is self-funded. I worked during my studies and at some point, I could have meetings during the day with Oxford Business School MBA students, emerging social entrepreneurs, while on the evening I was working with people from low wage European countries trying to climb the social ladder. This diversity enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. Collaborators in various projects highlighted my abilities to research, to analyze data, to make decisions, to think critically, to be creative and to communicate efficiently. 
 
+#### Problem solver
+
+My experience at the Makers software engineering bootcamp strongly enhanced my problem solving skills, notably my process of breaking down tasks into small pieces. As an example I got very good feedback on this skill when I was able to facilitate the collaborative process to create user stories, draw diagrams and create the tickets by recording on a white board our collective discussions. Also, working alone, with a pair, with a mentor or with a mentee were very interesting ways to learn from other problem solving methodologies, at each step of the TDD, debugging or refactoring process. Finally, I digged into every step of my process in my [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio).
+
 ## Education
 
 #### Software Engineering - Makers Academy (2018 to 2019)
 
 A 16-week intensive development bootcamp, focusing on :
 
-- Learning and problem solving
-- Software Craftsmanship 
-- Agile methodologies, Scrum
-- OOP, TDD, Object Oriented Design
-- Pair programming
-- Ruby, Rails, Javascript, React
+- Learning fast new technologies, programming languages, methodologies and effective collaborations
+- Problem solving, individually, as a pair or as a group, encouraging feedback and sharing learnings
+- Agile and XP values, Scrum methodology, making sure there are opportunities for everyone to contribute
+- Pair programming, 
+
+- Object Oriented Programming
+- Test Driven Development / Behavior Driven Development
+- Model View Controller design
+- Version Control (git/github)
+
+- Database management(PostgreSQL)
+- ORM ( Sequlizer, ActiveRecord )
+- Ruby/Rails
+  - RSpec
+  - Sinatra
+  - Capybara/Selenium
+- JavaScript
+  - React
+  - Jasmine
+  - Jest/cypress
 
 #### MSc in Business Engineering - KEDGE Business School (2010 to 2013)
 
@@ -122,7 +142,7 @@ A 16-week intensive development bootcamp, focusing on :
 
 ## Interests
 
-- Personal Development - Swimming – Hiking – Meditating - Chasing social innovations
+- Personal Development - Swimming – Hiking - Yoga – Meditating - Chasing social innovations
 
 #### Peer-led learning accelerator - Enrol Yourself - Learning Marathon (2018)
 - Researched and experimented on ways to cultivate social impact leadership.
@@ -136,7 +156,7 @@ A 16-week intensive development bootcamp, focusing on :
 
 In addition to the following feedback I kept practicing on [Exercism](https://exercism.io/profiles/AdrienFabre) to get precise feedback on my code and improve my refactoring skills.
 
-- Diptis Hadler - Student at Makers - Collaborated on What Zen, the final project
+#### Diptis Hadler - Student at Makers - Collaborated on What Zen, the final project
 
 "I was in Team What Zen with Adrien for our final project. I was very impressed with Adrien's contributions in all aspects to the project.
 
@@ -152,19 +172,19 @@ In the second week of the project our team worked very well following Agile proc
 
 When it came to investigating new technologies and testing them out he showed his keenness and ability in learning by himself. He got some example code working very quickly by following tutorials and other online resources. When he shared and explained his work it helped the team to understand the possibilities and challenges involved with those technologies.
 
-- Dan Groze - Student at Makers - Collaborated on What Zen, the final project
+#### Dan Groze - Student at Makers - Collaborated on What Zen, the final project
 
 "I really enjoyed working with you, having spent a difficult week on our Task manager app, being on a deadline and having to learn several new technologies, you were always positive and helped the team a lot with researching."
 
-- Sherif Shendidy - Student at Makers - Collaborated on What Zen, the final project
+#### Sherif Shendidy - Student at Makers - Collaborated on What Zen, the final project
 
 "You were also a great team player, with great sense of humer and ability engage in a focused fruitful conversation to solve problems and plan for the works ahead of us."
 
-- Sam Morgan - Makers' Head of Education
+#### Sam Morgan - Makers' Head of Education
 
 "You program fast and fluidly, move quickly around the process, and have inventive and thoughtful approaches to solving tough problems."
 
-- Rohan Metha - from MakeSense (an open source volunteer-driven network creating design thinking events to support social entrepreneurs)
+#### Rohan Metha - from MakeSense (an open source volunteer-driven network creating design thinking events to support social entrepreneurs)
 
 "Very soon after attending his first event he was eager to jump on board and learn how to facilitate one of our workshops. By conducting these workshops he got to deeply understand several social entrepreneurs and help them figure out how to improve their business. He did these extremely well and soon became part of the core team. 6 months after he attended his first MakeSense workshop Adrien was the lead in organising a large-scale event “Food Glorious Food” tackling food waste with a full day event with workshops, activities, and talks featuring 12 different social entrepreneurs in the food sustainability sector. Adrien found the venue, negotiated using it for free, came up with the concept, created the marketing materials and was directing 6 other volunteers to pull off a really successful event.
 
