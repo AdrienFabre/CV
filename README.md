@@ -4,90 +4,113 @@ Further info: [Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bo
 
 ## About
 
-Curious about myself, others and the world - Native French - Conversational Russian
+A curious, self-driven and perseverant **Software Engineer**.
+(really curious, to give you an idea, I watched hundreds of [TED Talks](https://ted.com))
 
-A curious, self-driven and perseverant **Junior Software Engineer** who grew from studying vocational electronics up to a Master in business engineering, fascinated by technologies and languages. Derived from my passion and involvement in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. 
+I grew from studying vocational electronics up to a Master in business engineering, fascinated by technologies and languages. Derived from my involvement in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. 
 
-I have just graduated from Makers software engineering bootcamp, I am looking for a role where I can consolidate and extend my programming knowledge, notably in a compiled language, while also gaining exposure to product management and DevOps. A place where I can contribute to a culture of innovation, progress and diversity.
+You can find more about myself on [adrienfabre.dev](http://adrienfabre.dev/)
+(for example why, being from southern France, I went to Russia and then London) 
 
-**Tech Skills** : Ruby - Javascript - Test Driven Development - Object Oriented Programming - Agile 
+I have just graduated from [Makers software engineering bootcamp](https://makers.tech/), I am looking for place where I can contribute to a culture of innovation, progress and diversity, a role where I can consolidate and extend my programming knowledge, notably in a compiled language, while also gaining exposure to product management and DevOps. 
+
+You can find more about what I learnt on [my Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio)
 
 ## Projects - and links to Github repositories
 
-All projects have been part of my learnings at [Makers Academy](https://github.com/makersacademy)
+All projects have been part of my learnings at [Makers Academy](https://github.com/makersacademy).The focus has been to learn to learn fast and to implement the best practices, notably Test Driven Development and Agile Scrum methodologies. 
+I created this [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) to anchore my learnings.
 
-The focus has been to learn to learn fast and to implement the best practices, notably Test Driven Development and Agile Scrum methodologies. Here is the [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) I created to anchore my learnings.
+The following projects are full-stack projects where I focused on learning Team Work, Scrum and Version Control in addition of new languages.
 
-#### Full Stack Team Projects - Team members feedback at the bottom this page
+| Title _ link to Git | Stack |
+| --- | --- |
+| [Minimalist version of Trello + chat](https://github.com/what-zen/what-zen-app) [Deployed version here](https://what-zen-app.firebaseapp.com) | React - Firebase Database and Authentification - Cypress |
+| [Minimalist version of Facebook](https://github.com/simian-sinister/Acebook-Simian-Sinister) | Ruby on Rails - PostgreSQL Database - Active Record ORM - Devise Authentification - Capybara - RSpec |
+| [Minimalist version of AirBnB](https://github.com/AdrienFabre/makersbnb) |  React - PostgreSQL Database - Sequelizer ORM - Express - Node - Express - Node - Cypress - Jasmine |
 
-- React - Firebase Database and Authentification - Cypress
-  - [Minimalist version of Trello with a chat](https://github.com/what-zen/what-zen-app) | [Deployed version here](https://what-zen-app.firebaseapp.com)
+The following projects are exercises where I focused on learning the best practices of TDD, Debugging and Refactoring in different environments.
 
-- Ruby on Rails - PostgreSQL Database - Active Record ORM - Devise Authentification - Capybara - RSpec
-  - [Minimalist version of Facebook](https://github.com/simian-sinister/Acebook-Simian-Sinister) 
-
-- React - PostgreSQL Database - Sequelizer ORM - Express - Node - Express - Node - Cypress - Jasmine
-  - [Minimalist version of AirBnB](https://github.com/AdrienFabre/makersbnb)
-
-#### TypeScript and Jest
-
-- [Bowling challenge](https://github.com/AdrienFabre/bowling-typescript)
-
-#### JavaScript and Jasmine
-
-- [Airport challenge](https://github.com/AdrienFabre/airport_challenge_js)
-
-#### Ruby and RSpec
-
-- [Minimalist version of Instagram](https://github.com/AdrienFabre/instagram-challenge) with Rails and Devise
-
-- [Takeaway challenge](https://github.com/AdrienFabre/takeaway-challenge-ruby)
-
-- [Bank challenge](https://github.com/AdrienFabre/bank_tech_test_ruby)
-
-- [Echo challenge](https://github.com/AdrienFabre/echo_ruby)
-
-- [Shop challenge](https://github.com/AdrienFabre/shop_ruby)
+| Title _ link to Git | Stack |
+| --- | --- |
+| [Bowling challenge](https://github.com/AdrienFabre/bowling-typescript) | TypeScript and Jest |
+| [Airport challenge](https://github.com/AdrienFabre/airport_challenge_js) | JavaScript and Jasmine | New language |
+| [Minimalist version of Instagram](https://github.com/AdrienFabre/instagram-challenge) | Ruby and RSpec with Rails and Devise |
+| [Takeaway challenge](https://github.com/AdrienFabre/takeaway-challenge-ruby) | Ruby and RSpec |
+| [Bank challenge](https://github.com/AdrienFabre/bank_tech_test_ruby) | Ruby and RSpec  |
+| [Echo challenge](https://github.com/AdrienFabre/echo_ruby) | Ruby and RSpec |
+| [Shop challenge](https://github.com/AdrienFabre/shop_ruby) | Ruby and RSpec |
 
 ## Skills
 
 #### Self-driven - Perseverant
 
-12 years ago, I was living in a small town in southern France, studying vocational electronics and working in food processing factories. I decided to push my own limits. I got a Master in Business Engineering, studied in India and Russia, learned languages, I experienced purchasing, sales and project management roles. I was inspired by individuals using entrepreneurship and design thinking to do good. I explored the social innovation ecosystem in London, meeting hundreds of social entrepreneurs and attending hundreds of events. I created and facilitated my own events focused on cultivating social impact leadership, to grow and collaborate efficiently.
+As a software developer, being Self-Driven and Perseverant helps me to keep my focus, to always learn and to solve complex problems.
 
-#### Fast Learner - Adaptive
+This strong drive enabled me to grow from studying vocational electronics and working in food processing factories, up to getting a Master in Business Engineering, leading design thinking events and collaborating with innovative entrepreneurs.
 
-When I attended my first design thinking workshop focused on helping social entrepreneurs I was fascinated by how enjoyable and efficient it was to energize people and co-create ideas. I decided to become proficient. I got closed to the core team, I met the leaders, I co-organized events with them and learn on my own. 6 months later, I impressed those leaders, I led events on my own and even one that was bigger than anything they ever organized in London.
+- Feedback - Rohan Metha - from [MakeSense](https://makesense.org/en/) (open source volunteer-driven network creating design thinking events): "Adrien demonstrates a really strong work ethic. If he says he will do something he will go to great lengths to make sure it gets done. I have also found that he learns very quickly. If he is interested in something he will dive head first into it, contacting people to talk to and create opportunities to learn as much as he can by doing."
 
-I wanted to explore the BRICS countries, I went to live in Russia as part of my business studies. When I arrived, I knew only the alphabet, I was determined to have a work experience there, so I seized all opportunities to improve my language skills and to understand the culture, I took additional courses, I offered a lot of language exchanges and I went to plenty of meetups. I impressed the locals, I grew my network and I got a working experience. 
-
-#### Thrives Under Pressure - Resourceful
-
-At Makesense, once I got some facilitation skills, my objective was to organize a bigger event, to find a cross over among social entrepreneurs, a place where they grow, cook and recycle food, where we could do a full day event with a total of 60 persons involved. 
-
-In 10 weeks, I found an ideal venue and I created tools and processes to collaborate efficiently with volunteers and partners. We met every week to co-create the programme and to promote the event. As a result, we created an event with 10 social entrepreneurs, from 9am to 9pm, with 90 persons involved, over 10 activities including Design Thinking Workshops, public debate, cooking food surplus. We overachieved.
-
-#### Team Player - Excellent Communicator
-
-As a project buyer of electronic components at Schneider Electric, I was involved in a team in the R&D center, our goal was to standardize electronic components and blueprints in order to reduce costs and increase agility. My first objective was to build a tool that enables each stakeholder to access the relevant data from different sources for each component or module. The second objective was to convince everyone to use it. 
-
-I met each stakeholder and gathered the relevant data. Thanks to those successful collaborations I created a tool that simplified and fastened a complex decision-making process as well as reduced the number of references was reduced.
-
-#### Analytical thinker - Learning from Diversity
-
-My experiences are very diverse, also because my journey is self-funded. I worked during my studies and at some point, I could have meetings during the day with Oxford Business School MBA students, emerging social entrepreneurs, while on the evening I was working with people from low wage European countries trying to climb the social ladder. 
-
-This diversity enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. Collaborators in various projects highlighted my abilities to research, to analyze data, to make decisions, to think critically, to be creative and to communicate efficiently thanks to this understanding. 
+- Feedback - Sherif Shendidy - Student at Makers - Collaborated on What Zen, the final project: "You were so dedicated, your thoughts were very organised, and it was so helpful the way you diagrammed the options we had and plans/routes we can follow to deliver the required feature."
 
 #### Problem solver - Learning from Collaborations
 
-My experience at the Makers software engineering bootcamp strongly enhanced my problem solving skills, notably my process of breaking down tasks into small pieces. As an example, I got very good feedback on this skill when I was able to facilitate the collaborative process to create user stories, draw diagrams and create the tickets by recording on a white board our collective discussions. 
+As a software developer, being a problem solver and learning from collaborations helped me to handle a very large diversity of challenges and to constantly progress.
 
-Also, working alone, with a pair, with a mentor or with a mentee were very interesting ways to learn from other problem solving methodologies, at each step of the TDD, debugging or refactoring process, I enriched my own process. Finally, I digged into every step of my process in my [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio).
+This process and mindset that I enhanced at Makers software engineering bootcamp helped me to know how to break down tasks into small pieces. For example, working in a group, while brainstorming, I would facilitate and draw on a board what we are trying solve to keep the dicussion focused.
+
+- Feedback - Diptis Hadler - Student at Makers - Collaborated on What Zen, the final project: "In general he led the ideation and planning sessions that we had, writing notes and diagrams on the whiteboard to capture the salient points from the discussions we were having as a team. This helped us to focus on the key issues and explore ideas more effectively."
+
+Also, working alone, with a pair, with a mentor or with a mentee were very interesting ways to learn from other problem solving methodologies, at each step of the TDD, debugging or refactoring process, I enriched my own process.
+
+- Feedback - Sam Morgan - Makers' Head of Education - [Full feedback here](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio#global-feedback-from-makers-head-of-education): "You program fast and fluidly, move quickly around the process, and have inventive and thoughtful approaches to solving tough problems."
+
+#### Analytical Thinker - Learning from Diversity
+
+As a software developer, being an Analitical Thinker and Learning from Diversity helped me to listen deeply my collaborators and to make sense of complex systems quickly.
+
+Having self-funded my journey, I almost always worked and studied, I could have meetings during the day with Oxford Business School MBA students, emerging social entrepreneurs, and on the evening I was working with people from low wage European countries trying to climb the social ladder. This diversity enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. 
+
+Collaborators in various projects highlighted my abilities to research, to analyze data, to make decisions, to think critically, to be creative and to communicate efficiently thanks to this understanding.
+
+- Feedback - Krzysztof Balejko - Student at Makers - Paring: "Adrien starts each of his projects with careful planing and I was invited to join in before both bowling and front-end API challenges. During the process Adrien has demonstrated his abilities of modelling user interaction. We have used Realtime Board during both sessions for diagraming and general brainstorming."
+
+- Feedback - Dan Groze - Student at Makers - Collaborated on What Zen, the final project: "I like that you always start tackling a problem with lots of planning, you are a master at diagramming and modelling. This helped all our team during our final project to understand our task better.
+
+
+#### Team Player - Excellent Communicator
+
+As a software developer, being a Team Player and an Excellent Communicator helped me to work effectively in groups and embody the Agile values.
+
+Working as a project buyer of electronic components at [Schneider Electric](https://www.schneider-electric.co.uk/en/), I was involved in a team in the R&D center, our goal was to standardize electronic components and blueprints in order to reduce costs and increase agility. My first objective was to build a tool that enables each stakeholder to access the relevant data from different sources for each component or module. The second objective was to convince everyone to use it. 
+
+I met each stakeholder and gathered the relevant data. Thanks to those successful collaborations I created a tool that simplified and fastened a complex decision-making process as well as reduced the number of references was reduced.
+
+- Feedback - Sherif Shendidy - Student at Makers - Collaborated on What Zen, the final project: "You were also a great team player, with great sense of humor and ability engage in a focused fruitful conversation to solve problems and plan for the works ahead of us."
+
+#### Fast Learner - Adaptive
+
+As a software developer, being a Fast Leaner and Adaptative helped me to deeply understand new languages and how entire stacks work together.
+
+I wanted to explore the BRICS countries, I went to live in Russia as part of my business studies. When I arrived, I knew only the alphabet, I was determined to have a work experience there, so I seized all opportunities to improve my language skills and to understand the culture, I took additional courses, I offered a lot of language exchanges and I went to plenty of meetups. I impressed the locals, I grew my network and I got a working experience. 
+
+- Feedback - Michael Graham, Sales Expert, MJB Graham Founder, Director of Entrepreneurship at Genisys (Charity): “Adrien has an incredible work ethic blended with a great student mentality. During his time at MJB he proved himself to be a fast learner and demonstrated a willingness to continuously go the extra mile to generate results."
+
+#### Thrives Under Pressure - Resourceful
+
+As a software developer, Thriving under Pressure and being Resourceful helps to prioritize and maintain an Agile pace.
+
+- Feedback - Mursal Hedayat, CEO at [Chatterbox](https://www.chatterbox.io/), FounderForbes 30 Under 30 Social Entrepreneur:
+“It was a delightful working with Adrien. He produced a highly engaging and well attended MakeSense workshop for Chatterbox in very little time. He was very attentive to our needs and delivered outputs that far exceeded our expectations.”
+
+- Feedback - Rohan Metha - from [MakeSense](https://makesense.org/en/) (open source volunteer-driven network creating design thinking events): "6 months after he attended his first MakeSense workshop Adrien was the lead in organising a large-scale event “Food Glorious Food” tackling food waste with a full day event with workshops, activities, and talks featuring 12 different social entrepreneurs in the food sustainability sector. Adrien found the venue, negotiated using it for free, came up with the concept, created the marketing materials and was directing 6 other volunteers to pull off a really successful event."
 
 ## Education
 
 #### Software Engineering - Makers Academy (2018 to 2019)
+
+
+- Feedback - Sam Morgan - Makers' Head of Education [further feedback here](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio#global-feedback-from-makers-head-of-education): "You program fast and fluidly, move quickly around the process, and have inventive and thoughtful approaches to solving tough problems."
 
 A 16-week intensive development bootcamp, focusing on :
   - Learning fast new technologies, programming languages, methodologies and effective collaborations
@@ -103,6 +126,8 @@ A 16-week intensive development bootcamp, focusing on :
 - ORM ( Sequlizer, ActiveRecord )
 - Ruby - Rails - RSpec - Sinatra - Capybara - Selenium
 - JavaScript - React - Jasmine - Jest - Cypress
+
+- Feedback - Matthew Whitaker - Student at Makers - After a programming challenge: "You clearly have a very solid understanding of ruby and are very driven to writing high quality code which is flexible yet very readable."
 
 #### MSc in Business Engineering - KEDGE Business School (2010 to 2013)
 
@@ -188,11 +213,9 @@ I really enjoyed working with you, having spent a difficult week on our Task man
 
 I liked and respected how brave you were in making decisions involving the use of tools and technologies that we didn’t know even when the time frame we had we so tight, then how focused you were in learning them and successfully implementing them in our project.
 
-You were also a great team player, with great sense of humer and ability engage in a focused fruitful conversation to solve problems and plan for the works ahead of us."
+You were also a great team player, with great sense of humor and ability engage in a focused fruitful conversation to solve problems and plan for the works ahead of us."
 
-#### Sam Morgan - Makers' Head of Education [further feedback here](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio#global-feedback-from-makers-head-of-education)
 
-"You program fast and fluidly, move quickly around the process, and have inventive and thoughtful approaches to solving tough problems."
 
 #### Rohan Metha - from [MakeSense](https://makesense.org/en/) (open source volunteer-driven network creating design thinking events)
 
@@ -201,4 +224,7 @@ You were also a great team player, with great sense of humer and ability engage 
 6 months after he attended his first MakeSense workshop Adrien was the lead in organising a large-scale event “Food Glorious Food” tackling food waste with a full day event with workshops, activities, and talks featuring 12 different social entrepreneurs in the food sustainability sector. Adrien found the venue, negotiated using it for free, came up with the concept, created the marketing materials and was directing 6 other volunteers to pull off a really successful event.
 
 Adrien demonstrates a really strong work ethic. If he says he will do something he will go to great lengths to make sure it gets done. I have also found that he learns very quickly. If he is interested in something he will dive head first into it, contacting people to talk to and create opportunities to learn as much as he can by doing. He is a self-starter and very good at finding ways to improve the ways we work together."
+
+
+
 
