@@ -118,7 +118,7 @@ A 16-week intensive development bootcamp, focusing on :
 - Aeronautics: assisted in maintenance operations on helicopters.
 - Previous Diplomas: BTEC National Diploma, BTEC First Diploma of Electronics.
 
-## Experience
+## Experiences
 
 **Community Coordinator and Facilitator - Freelance - MakeSense - Freeformers - Itakepart** (2016 to 2018)
 
