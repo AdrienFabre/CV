@@ -14,8 +14,7 @@ A curious, self-driven and perseverant **Junior Software Engineer** who grew fro
 
 All projects have been part of my learnings at [Makers Academy](https://github.com/makersacademy)
 
-The focus has been to learn to learn fast and to implement the best practices, notably Test Driven Development and Agile values. Here is the [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) I created to anchore my learnings.
-
+The focus has been to learn to learn fast and to implement the best practices, notably Test Driven Development and Agile Scrum methodologies. Here is the [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) I created to anchore my learnings.
 
 #### Full Stack Team Projects - Team members feedback at the bottom this page
 
@@ -56,13 +55,13 @@ The focus has been to learn to learn fast and to implement the best practices, n
 
 #### Fast Learner - Adaptive
 
-When I attended my first design thinking workshop focused on helping social entrepreneurs I was fascinated by how enjoyable and efficient it was to energize people and co-create ideas. I decided to become proficient. I got closed to the core team, I met the leaders, I co-organized events with them and learn on my own. 6 months later, I impressed those leaders, I led events on my own and even one that was bigger than they ever organized in London.
+When I attended my first design thinking workshop focused on helping social entrepreneurs I was fascinated by how enjoyable and efficient it was to energize people and co-create ideas. I decided to become proficient. I got closed to the core team, I met the leaders, I co-organized events with them and learn on my own. 6 months later, I impressed those leaders, I led events on my own and even one that was bigger than anything they ever organized in London.
 
-I wanted to explore the BRICS countries, I went to live in Russia as part of my business studies. When I arrived, I knew only the alphabet, I was determined to have a work experience there, so I seized all opportunities to improve my language skills and to understand the culture,  I took additional courses, I offered a lot of language exchanges and I went to plenty of meetups. I impressed the locals, I grew my network and I got a working experience. 
+I wanted to explore the BRICS countries, I went to live in Russia as part of my business studies. When I arrived, I knew only the alphabet, I was determined to have a work experience there, so I seized all opportunities to improve my language skills and to understand the culture, I took additional courses, I offered a lot of language exchanges and I went to plenty of meetups. I impressed the locals, I grew my network and I got a working experience. 
 
 #### Thrives Under Pressure - Resourceful
 
-At Makesense, once I got some facilitation skills, my objective was to organize a bigger event, to find a cross over among  social entrepreneurs, a place where they grow, cook and recycle food, where we could do a full day event with a total of 60 persons involved. In 10 weeks, I found an ideal venue and I created tools and processes to collaborate efficiently with volunteers and partners. We met every week to co-create the programme and to promote the event. As a result, we created an event with 10 social entrepreneurs, from 9am to 9pm, with 90 persons involved, over 10 activities including Design Thinking Workshops, public debate, cooking food surplus. We overachieved.
+At Makesense, once I got some facilitation skills, my objective was to organize a bigger event, to find a cross over among social entrepreneurs, a place where they grow, cook and recycle food, where we could do a full day event with a total of 60 persons involved. In 10 weeks, I found an ideal venue and I created tools and processes to collaborate efficiently with volunteers and partners. We met every week to co-create the programme and to promote the event. As a result, we created an event with 10 social entrepreneurs, from 9am to 9pm, with 90 persons involved, over 10 activities including Design Thinking Workshops, public debate, cooking food surplus. We overachieved.
 
 #### Team Player - Excellent Communicator
 
@@ -70,11 +69,11 @@ As a project buyer of electronic components at Schneider Electric, I was involve
 
 #### Analytical thinker
 
-My experiences are very diverse, also because my journey is self-funded. I worked during my studies and at some point, I could have meetings during the day with Oxford Business School MBA students, emerging social entrepreneurs, while on the evening I was working with people from low wage European countries trying to climb the social ladder. This diversity enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. Collaborators in various projects highlighted my abilities to research, to analyze data, to make decisions, to think critically, to be creative and to communicate efficiently. 
+My experiences are very diverse, also because my journey is self-funded. I worked during my studies and at some point, I could have meetings during the day with Oxford Business School MBA students, emerging social entrepreneurs, while on the evening I was working with people from low wage European countries trying to climb the social ladder. This diversity enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. Collaborators in various projects highlighted my abilities to research, to analyze data, to make decisions, to think critically, to be creative and to communicate efficiently thanks to this understanding. 
 
 #### Problem solver
 
-My experience at the Makers software engineering bootcamp strongly enhanced my problem solving skills, notably my process of breaking down tasks into small pieces. As an example I got very good feedback on this skill when I was able to facilitate the collaborative process to create user stories, draw diagrams and create the tickets by recording on a white board our collective discussions. Also, working alone, with a pair, with a mentor or with a mentee were very interesting ways to learn from other problem solving methodologies, at each step of the TDD, debugging or refactoring process. Finally, I digged into every step of my process in my [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio).
+My experience at the Makers software engineering bootcamp strongly enhanced my problem solving skills, notably my process of breaking down tasks into small pieces. As an example, I got very good feedback on this skill when I was able to facilitate the collaborative process to create user stories, draw diagrams and create the tickets by recording on a white board our collective discussions. Also, working alone, with a pair, with a mentor or with a mentee were very interesting ways to learn from other problem solving methodologies, at each step of the TDD, debugging or refactoring process, I enriched my own process. Finally, I digged into every step of my process in my [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio).
 
 ## Education
 
@@ -135,12 +134,13 @@ A 16-week intensive development bootcamp, focusing on :
 - Organized, promoted and created content for Schneider Electric workshop during the AIESEC International Congress that resulted in 4 innovative concepts to enhance the company’s goals.
 
 ## Interests
-- Swimming - I recently swam over 3k in 1h10, I keep practicing
-- Hiking - Everywhere - Pyrenees(home) is my playground
-- Yoga - Streching my body as much as my mind - Twice a week since January
-- Meditating - Daily as much I can - Last year I did a week retreat in Scotland
-- Personal Development - anything that enhance my understanding of myself
-- Chasing social innovations - anything that enhance my contribution in this world
+- Swimming - I recently swam over 3k in 1h10, I keep practicing.
+- Hiking - Everywhere - Pyrenees(home) is my playground.
+- Yoga - Streching my body as much as my mind - Twice a week since January.
+- Meditating - Daily as much I can - Last year I did a week retreat in Scotland.
+- Personal Development - anything that enhance my understanding of myself.
+- Chasing social innovations - anything that enhance my contribution in this world.
+- Technology and innovations - watched hundreds of [TED Talks](https://ted.com) and regularly join/lead events.
 
 #### Peer-led learning accelerator - Enrol Yourself - Learning Marathon (2018)
 - Researched and experimented on ways to cultivate social impact leadership.
