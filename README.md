@@ -6,13 +6,13 @@ Further info: [Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bo
 
 A curious, self-driven and perseverant **Software Engineer**.
 
-I cultivate my growth mindset, from studying vocational electronics up to a Master in business engineering, fascinated by technologies and languages. Derived from my involvement in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. 
+I cultivate my growth mindset, from studying vocational electronics up to a Master in business engineering, fascinated by technologies and languages (native French, conversational Russian). Derived from my involvement in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. 
 
-You can find more about myself on [adrienfabre.dev](http://adrienfabre.dev/)
+You can find more about myself on [adrienfabre.dev](http://adrienfabre.dev/).
 
 I have just graduated from [Makers software engineering bootcamp](https://makers.tech/), I am looking for place where I can contribute to a culture of innovation, progress and diversity, a role where I can consolidate and extend my programming knowledge, notably in a compiled language, while also gaining exposure to product management and DevOps. 
 
-You can find more about what I learnt on [my Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio)
+You can find more about what I learnt on [my Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio).
 
 ## Projects
 
