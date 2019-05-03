@@ -12,7 +12,7 @@ I have just graduated from Makers software engineering bootcamp, I am looking fo
 
 **Tech Skills** : Ruby - Javascript - Test Driven Development - Object Oriented Programming - Agile 
 
-## Projects
+## Projects - and links to Github repositories
 
 All projects have been part of my learnings at [Makers Academy](https://github.com/makersacademy)
 
@@ -21,7 +21,7 @@ The focus has been to learn to learn fast and to implement the best practices, n
 #### Full Stack Team Projects - Team members feedback at the bottom this page
 
 - React - Firebase Database and Authentification - Cypress
-  - [Minimalist version of Trello with a chat](https://github.com/what-zen/what-zen-app)
+  - [Minimalist version of Trello with a chat](https://github.com/what-zen/what-zen-app) | [Deployed version here](https://what-zen-app.firebaseapp.com)
 
 - Ruby on Rails - PostgreSQL Database - Active Record ORM - Devise Authentification - Capybara - RSpec
   - [Minimalist version of Facebook](https://github.com/simian-sinister/Acebook-Simian-Sinister) 
