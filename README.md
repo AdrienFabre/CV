@@ -63,19 +63,27 @@ I wanted to explore the BRICS countries, I went to live in Russia as part of my 
 
 #### Thrives Under Pressure - Resourceful
 
-At Makesense, once I got some facilitation skills, my objective was to organize a bigger event, to find a cross over among social entrepreneurs, a place where they grow, cook and recycle food, where we could do a full day event with a total of 60 persons involved. In 10 weeks, I found an ideal venue and I created tools and processes to collaborate efficiently with volunteers and partners. We met every week to co-create the programme and to promote the event. As a result, we created an event with 10 social entrepreneurs, from 9am to 9pm, with 90 persons involved, over 10 activities including Design Thinking Workshops, public debate, cooking food surplus. We overachieved.
+At Makesense, once I got some facilitation skills, my objective was to organize a bigger event, to find a cross over among social entrepreneurs, a place where they grow, cook and recycle food, where we could do a full day event with a total of 60 persons involved. 
+
+In 10 weeks, I found an ideal venue and I created tools and processes to collaborate efficiently with volunteers and partners. We met every week to co-create the programme and to promote the event. As a result, we created an event with 10 social entrepreneurs, from 9am to 9pm, with 90 persons involved, over 10 activities including Design Thinking Workshops, public debate, cooking food surplus. We overachieved.
 
 #### Team Player - Excellent Communicator
 
-As a project buyer of electronic components at Schneider Electric, I was involved in a team in the R&D center, our goal was to standardize electronic components and blueprints in order to reduce costs and increase agility. My first objective was to build a tool that enables each stakeholder to access the relevant data from different sources for each component or module. The second objective was to convince everyone to use it. I met each stakeholder and gathered the relevant data. Thanks to those successful collaborations I created a tool that simplified and fastened a complex decision-making process as well as reduced the number of references was reduced.
+As a project buyer of electronic components at Schneider Electric, I was involved in a team in the R&D center, our goal was to standardize electronic components and blueprints in order to reduce costs and increase agility. My first objective was to build a tool that enables each stakeholder to access the relevant data from different sources for each component or module. The second objective was to convince everyone to use it. 
 
-#### Analytical thinker
+I met each stakeholder and gathered the relevant data. Thanks to those successful collaborations I created a tool that simplified and fastened a complex decision-making process as well as reduced the number of references was reduced.
 
-My experiences are very diverse, also because my journey is self-funded. I worked during my studies and at some point, I could have meetings during the day with Oxford Business School MBA students, emerging social entrepreneurs, while on the evening I was working with people from low wage European countries trying to climb the social ladder. This diversity enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. Collaborators in various projects highlighted my abilities to research, to analyze data, to make decisions, to think critically, to be creative and to communicate efficiently thanks to this understanding. 
+#### Analytical thinker - Learning from Diversity
 
-#### Problem solver
+My experiences are very diverse, also because my journey is self-funded. I worked during my studies and at some point, I could have meetings during the day with Oxford Business School MBA students, emerging social entrepreneurs, while on the evening I was working with people from low wage European countries trying to climb the social ladder. 
 
-My experience at the Makers software engineering bootcamp strongly enhanced my problem solving skills, notably my process of breaking down tasks into small pieces. As an example, I got very good feedback on this skill when I was able to facilitate the collaborative process to create user stories, draw diagrams and create the tickets by recording on a white board our collective discussions. Also, working alone, with a pair, with a mentor or with a mentee were very interesting ways to learn from other problem solving methodologies, at each step of the TDD, debugging or refactoring process, I enriched my own process. Finally, I digged into every step of my process in my [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio).
+This diversity enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. Collaborators in various projects highlighted my abilities to research, to analyze data, to make decisions, to think critically, to be creative and to communicate efficiently thanks to this understanding. 
+
+#### Problem solver - Learning from Collaborations
+
+My experience at the Makers software engineering bootcamp strongly enhanced my problem solving skills, notably my process of breaking down tasks into small pieces. As an example, I got very good feedback on this skill when I was able to facilitate the collaborative process to create user stories, draw diagrams and create the tickets by recording on a white board our collective discussions. 
+
+Also, working alone, with a pair, with a mentor or with a mentee were very interesting ways to learn from other problem solving methodologies, at each step of the TDD, debugging or refactoring process, I enriched my own process. Finally, I digged into every step of my process in my [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio).
 
 ## Education
 
@@ -186,11 +194,11 @@ I liked and respected how brave you were in making decisions involving the use o
 
 You were also a great team player, with great sense of humer and ability engage in a focused fruitful conversation to solve problems and plan for the works ahead of us."
 
-#### Sam Morgan - Makers' Head of Education
+#### Sam Morgan - Makers' Head of Education [further feedback here](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio#global-feedback-from-makers-head-of-education)
 
 "You program fast and fluidly, move quickly around the process, and have inventive and thoughtful approaches to solving tough problems."
 
-#### Rohan Metha - from MakeSense (an open source volunteer-driven network creating design thinking events to support social entrepreneurs)
+#### Rohan Metha - from [MakeSense](https://makesense.org/en/) (open source volunteer-driven network creating design thinking events)
 
 "Very soon after attending his first event he was eager to jump on board and learn how to facilitate one of our workshops. By conducting these workshops he got to deeply understand several social entrepreneurs and help them figure out how to improve their business. He did these extremely well and soon became part of the core team. 6 months after he attended his first MakeSense workshop Adrien was the lead in organising a large-scale event “Food Glorious Food” tackling food waste with a full day event with workshops, activities, and talks featuring 12 different social entrepreneurs in the food sustainability sector. Adrien found the venue, negotiated using it for free, came up with the concept, created the marketing materials and was directing 6 other volunteers to pull off a really successful event.
 
