@@ -115,7 +115,7 @@ As a software developer, Thriving under Pressure and being Resourceful helps to 
 
 ## Education
 
-#### Software Engineering - Makers Academy (2018 to 2019)
+#### Software Engineering - [Makers Academy](https://github.com/makersacademy) (2018 to 2019)
 
 A 16-weeks intensive development bootcamp, focusing on :
   - Learning fast new technologies, programming languages, methodologies and effective collaborations (TDD/BDD, OOP)
@@ -131,7 +131,7 @@ You can find more about what I learnt on [my Makers Portfolio](https://github.co
 
 - Feedback - Tenebrousedge - Mentor at Exercism: "Perfect. This is the best-performing solution, and the one that we use to explain the concepts of this exercise."
 
-#### MSc in Business Engineering - KEDGE Business School (2010 to 2013)
+#### MSc in Business Engineering - [KEDGE Business School](https://student.kedge.edu/) (2010 to 2013)
 
 - Studied project and innovation management, purchasing, strategy, marketing B2B and solution selling.
 - Wrote a thesis on “How Buyers can improve companies’ performance with collaborative tools”.
@@ -147,7 +147,7 @@ You can find more about what I learnt on [my Makers Portfolio](https://github.co
 
 ## Experiences
 
-**Community Coordinator and Facilitator - Freelance - MakeSense - Freeformers - Itakepart** (2016 to 2018)
+**Community Coordinator and Facilitator - Freelance - [MakeSense](https://makesense.org/en/) - [Freeformers](https://freeformers.com/) - Itakepart** (2016 to 2018)
 
 - Organized, designed and facilitated 15+ design thinking workshops to help social entrepreneurs.
 - Led a 90+ people event (tinyurl.com/zxfrhq4) and created collaborative tools to manage 10+ volunteers.
@@ -159,12 +159,12 @@ You can find more about what I learnt on [my Makers Portfolio](https://github.co
 - Instigated partnerships with businesses and communities to reach the companies’ target audience.
 - Acquired prospects from face to face and online networking to conclude deals using a CRM system.
 
-**Project Buyer - Schneider Electric** (2012 to 2013)
+**Project Buyer - [Schneider Electric](https://www.schneider-electric.co.uk/en/)** (2012 to 2013)
 
 - Created and implemented Excel-based shared tools which increased profit while also improving decision making and team efficiency through consensus building, performance optimization and best practice sharing.
 - Defined needs with engineers, collaborated with different departments, prepared requests for purchase quotations, analyzed offers, negotiated with suppliers and trained staff to use tools (Combination of KPI, supplier mapping and cost database).
 
-**Marketing and Communication Assistant - Schneider Electric** (2012)
+**Marketing and Communication Assistant - [Schneider Electric](https://www.schneider-electric.co.uk/en/)** (2012)
 
 - Organized, promoted and created content for Schneider Electric workshop during the AIESEC International Congress that resulted in 4 innovative concepts to enhance the company’s goals.
 
@@ -173,7 +173,3 @@ You can find more about what I learnt on [my Makers Portfolio](https://github.co
 - Yoga - Streching my body as much as my mind - Meditation - Last year I did a week retreat in Scotland.
 - Personal Development and Innovation - enhancing my experience of life, I watched watched hundreds of [TED Talks](https://ted.com).
 - Chasing social and technological innovations - anything that enhance my contribution in this world.
-
-
-
-
