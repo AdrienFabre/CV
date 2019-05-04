@@ -54,12 +54,10 @@ This strong drive enabled me to grow from studying vocational electronics and wo
 I also joined those two 6 months long programmes as a participant and as a co-creator to dig into my drives:
 
 - Peer-led learning accelerator - [Enrol Yourself - Learning Marathon](https://enrolyourself.com/learning-marathon) (2018)
-  - Researched and experimented on ways to cultivate social impact leadership.
-  - Led experiential workshops about intention, self-discipline and actions.
+  - Researched and experimented on ways to cultivate social impact leadership, leading workshops about playful-discipline.
 
 - Experiential learning - [u.lab: Leading From the Emerging Future](https://www.edx.org/course/ulab-leading-from-the-emerging-future-15-671-1x-1) (2017)
-  - Explored systems leadership to address today’s complex societal challenges.
-  - Co-created experiments focusing on social, environmental and personal transformation.
+  - Explored systems leadership to address today’s complex societal challenges, co-created experiments personal development.
 
 #### Problem solver - Learning from Collaborations
 
