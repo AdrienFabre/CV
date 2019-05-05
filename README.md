@@ -101,7 +101,7 @@ I went to live in Russia as part of my business studies. When I arrived, I knew 
 Thriving under Pressure and being Resourceful helps me to prioritize and maintain an Agile pace.
 
 - Feedback - Mursal Hedayat, CEO at [Chatterbox](https://www.chatterbox.io/), FounderForbes 30 Under 30 Social Entrepreneur:
-“It was a delightful working with Adrien. He produced a highly engaging and well attended MakeSense workshop for Chatterbox in very little time. He was very attentive to our needs and delivered outputs that far exceeded our expectations.”
+“He produced a highly engaging and well attended MakeSense workshop for Chatterbox in very little time. He was very attentive to our needs and delivered outputs that far exceeded our expectations.”
 
 - Feedback - Rohan Metha - from [MakeSense](https://makesense.org/en/) (open source volunteer-driven network creating design thinking events): "6 months after he attended his first MakeSense workshop Adrien was the lead in organising a large-scale event “Food Glorious Food” tackling food waste with a full day event with workshops, activities, and talks featuring 12 different social entrepreneurs in the food sustainability sector. Adrien found the venue, negotiated using it for free, came up with the concept, created the marketing materials and was directing 6 other volunteers to pull off a really successful event."
 
