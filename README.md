@@ -128,7 +128,7 @@ You can find more about what I learnt on [my Makers Portfolio](https://github.co
 - Studied project and innovation management, purchasing, strategy, marketing B2B and solution selling.
 - Wrote a thesis on “How Buyers can improve companies’ performance with collaborative tools”.
 - Supported businesses through the most successful Junior Enterprise in Europe, Marketing Méditerranée.
-- Completed international business programmes at Plekhanov in Moscow and at BIMTech in New Delhi.
+- Completed international business programmes at [Plekhanov](https://www.rea.ru/en/Pages/default.aspx) in Moscow and at [BIMTech](https://www.bimtech.ac.in/) in New Delhi.
 
 #### HND Industrial Maintenance - Institute of Technology (2008 to 2010)
 
