@@ -43,7 +43,9 @@ The following projects are exercises where I focused on learning the best practi
 
 ### Self-driven - Perseverant
 
-As a software developer, being Self-Driven and Perseverant helps me to keep my focus, to constantly learn and to solve complex problems. This strong drive enabled me to grow from studying vocational electronics and working in food processing factories, up to getting a Master in Business Engineering, leading design thinking events and collaborating with innovative entrepreneurs.
+- Being Self-Driven and Perseverant helps me to keep my focus, to constantly learn and to solve complex problems. 
+
+This strong drive enabled me to grow from studying vocational electronics and working in food processing factories, up to getting a Master in Business Engineering, leading design thinking events and collaborating with innovative entrepreneurs.
 
 - Feedback - Rohan Metha - from [MakeSense](https://makesense.org/en/) (open source volunteer-driven network creating design thinking events): "Adrien demonstrates a really strong work ethic. If he says he will do something he will go to great lengths to make sure it gets done. I have also found that he learns very quickly."
 
@@ -96,7 +98,7 @@ I went to live in Russia as part of my business studies. When I arrived, I knew 
 
 ### Thrives Under Pressure - Resourceful
 
-Thriving under Pressure and being Resourceful helps to prioritize and maintain an Agile pace.
+Thriving under Pressure and being Resourceful helps me to prioritize and maintain an Agile pace.
 
 - Feedback - Mursal Hedayat, CEO at [Chatterbox](https://www.chatterbox.io/), FounderForbes 30 Under 30 Social Entrepreneur:
 “It was a delightful working with Adrien. He produced a highly engaging and well attended MakeSense workshop for Chatterbox in very little time. He was very attentive to our needs and delivered outputs that far exceeded our expectations.”
