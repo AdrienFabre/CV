@@ -115,14 +115,13 @@ A 16-weeks intensive development bootcamp, focusing on :
   - Agile and XP values, Scrum methodology, Pair programming. Respecting my pair partners/team mates, having the Courage to give Feedback, to Communicate and keep things Simple keeps the team efficient.
   - Ruby - Rails - RSpec - Sinatra - Capybara - Selenium - JavaScript - React - Jasmine - Jest - Cypress- PostgreSQL
 
+You can find more about what I learnt on [my Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio)
+
 - Feedback - Sam Morgan - Makers' Head of Education [further feedback here](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio#global-feedback-from-makers-head-of-education): "You moved quickly around the command-line to get set up. You were comfortable with Ruby, using effective Ruby idioms to write the test and the associated method. The solution you came up with to the problem was very intuitive and impressive. I hadn't thought of solving the problem like that."
 
 - Feedback - Matthew Whitaker - Student at Makers - After a programming challenge: "You clearly have a very solid understanding of ruby and are very driven to writing high quality code which is flexible yet very readable."
 
 - Feedback - Tenebrousedge - Mentor at Exercism: "Perfect. This is the best-performing solution, and the one that we use to explain the concepts of this exercise."
-
-- You can find more about what I learnt on [my Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio)
-
 
 #### MSc in Business Engineering - [KEDGE Business School](https://student.kedge.edu/) (2010 to 2013)
 
