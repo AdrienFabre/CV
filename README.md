@@ -34,9 +34,7 @@ The following projects are exercises where I focused on learning the best practi
 | [Bowling challenge](https://github.com/AdrienFabre/bowling-typescript) | TypeScript and Jest |
 | [Airport challenge](https://github.com/AdrienFabre/airport_challenge_js) | JavaScript and Jasmine | New language |
 | [Minimalist version of Instagram](https://github.com/AdrienFabre/instagram-challenge) | Ruby and RSpec with Rails and Devise |
-| [Takeaway challenge](https://github.com/AdrienFabre/takeaway-challenge-ruby)
-| [Bank challenge](https://github.com/AdrienFabre/bank_tech_test_ruby)
-| [Echo challenge](https://github.com/AdrienFabre/echo_ruby) | Ruby and RSpec |
+| [Takeaway challenge](https://github.com/AdrienFabre/takeaway-challenge-ruby) [Bank challenge](https://github.com/AdrienFabre/bank_tech_test_ruby) [Echo challenge](https://github.com/AdrienFabre/echo_ruby) | Ruby and RSpec |
 
 ## Skills
 
