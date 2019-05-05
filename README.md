@@ -51,11 +51,9 @@ As a software developer, being Self-Driven and Perseverant helps me to keep my f
 
 I also joined those two 6 months long programmes as a participant and as a co-creator to dig into my drives:
 
-- Peer-led learning accelerator - [Enrol Yourself - Learning Marathon](https://enrolyourself.com/learning-marathon) (2018)
-  - Researched and experimented on ways to cultivate social impact leadership, led workshops about playful-discipline.
+- Peer-led learning accelerator - [Enrol Yourself - Learning Marathon](https://enrolyourself.com/learning-marathon) (2018) - I researched and experimented ways to cultivate social impact leadership, led workshops about playful-discipline.
 
-- Experiential learning - [u.lab: Leading From the Emerging Future](https://www.edx.org/course/ulab-leading-from-the-emerging-future-15-671-1x-1) (2017)
-  - Explored systems leadership to address today’s complex societal challenges, focused on [Theory U](https://www.presencing.org/aboutus/theory-u), developed at MIT.
+- Experiential learning - [u.lab: Leading From the Emerging Future](https://www.edx.org/course/ulab-leading-from-the-emerging-future-15-671-1x-1) (2017) - I explored systems leadership to address today’s complex societal challenges, focused on [Theory U](https://www.presencing.org/aboutus/theory-u), developed at MIT.
 
 ### Problem solver - Learning from Collaborations
 
