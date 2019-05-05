@@ -8,11 +8,11 @@ A curious, self-driven and perseverant **Software Engineer**.
 
 I cultivate my growth mindset, from studying vocational electronics up to a Master in business engineering, fascinated by technologies and languages (native French, conversational Russian). Derived from my involvement in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. 
 
-You can find more about myself on [adrienfabre.dev](http://adrienfabre.dev/).
+- You can find more about myself on [adrienfabre.dev](http://adrienfabre.dev/).
 
 I have just graduated from [Makers software engineering bootcamp](https://makers.tech/), I am looking for place where I can contribute to a culture of innovation, continuous progress and diversity, a role where I can consolidate and extend my programming knowledge, notably in a compiled language, while also gaining exposure to product management and DevOps. 
 
-You can find more about what I learnt on [my Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio).
+- You can find more about what I learnt on [my Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio).
 
 ## Projects
 
@@ -43,7 +43,7 @@ The following projects are exercises where I focused on learning the best practi
 
 ### Self-driven - Perseverant
 
-- Being Self-Driven and Perseverant helps me to keep my focus, to constantly learn and to solve complex problems. 
+Being Self-Driven and Perseverant helps me to keep my focus, to constantly learn and to solve complex problems. 
 
 This strong drive enabled me to grow from studying vocational electronics and working in food processing factories, up to getting a Master in Business Engineering, leading design thinking events and collaborating with innovative entrepreneurs.
 
