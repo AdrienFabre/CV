@@ -57,7 +57,9 @@ I also joined those two 6 months long programmes as a participant and as a co-cr
 
 ### Problem solver - Learning from Collaborations
 
-As a software developer, being a Problem Solver and Learning from Collaborations helps me to handle a very large diversity of challenges and to constantly progress. This process and mindset that I enhanced at Makers software engineering bootcamp helps me to know how to break down tasks into small pieces. For example, working in a group, while brainstorming, I would facilitate and draw on a board what we are trying solve to keep the dicussion focused.
+Being a Problem Solver and Learning from Collaborations helps me to handle a very large diversity of challenges and to constantly progress. 
+
+This process and mindset that I enhanced at Makers software engineering bootcamp helps me to know how to break down tasks into small pieces. For example, working in a group, while brainstorming, I would facilitate and draw on a board what we are trying solve to keep the dicussion focused.
 
 - Feedback - Diptis Hadler - Student at Makers - Collaborated on the final project: "In general he led the ideation and planning sessions that we had, writing notes and diagrams on the whiteboard to capture the salient points from the discussions we were having as a team. This helped us to focus on the key issues and explore ideas more effectively."
 
@@ -67,7 +69,9 @@ Also, working alone, with a pair, with a mentor or with a mentee were very inter
 
 ### Analytical Thinker - Learning from Diversity
 
-As a software developer, being an Analitical Thinker and Learning from Diversity helped me to listen deeply my collaborators and to make sense of complex systems quickly. Having self-funded my journey, I almost always worked and studied, I could have meetings during the day with Oxford Business School MBA students, and on the evening I was working with people from low wage European countries trying to climb the social ladder. This diversity enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. Collaborators in various projects highlighted my abilities to research, to analyze data, to make decisions, to think critically, to be creative and to communicate efficiently thanks to this understanding.
+Being an Analitical Thinker and Learning from Diversity helped me to listen deeply my collaborators and to make sense of complex systems quickly. 
+
+Having self-funded my journey, I almost always worked and studied, I could have meetings during the day with Oxford Business School MBA students, and on the evening I was working with people from low wage European countries trying to climb the social ladder. This diversity enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. Collaborators in various projects highlighted my abilities to research, to analyze data, to make decisions, to think critically, to be creative and to communicate efficiently thanks to this understanding.
 
 - Feedback - Krzysztof Balejko - Student at Makers - Paring: "Adrien starts each of his projects with careful planing and I was invited to join in before both bowling and front-end API challenges. During the process Adrien has demonstrated his abilities of modelling user interaction."
 
@@ -76,19 +80,23 @@ As a software developer, being an Analitical Thinker and Learning from Diversity
 
 ### Team Player - Excellent Communicator
 
-As a software developer, being a Team Player and an Excellent Communicator helped me to work effectively in groups and embody the Agile values. Working as a project buyer of electronic components at [Schneider Electric](https://www.schneider-electric.co.uk/en/), I was involved in a team in the R&D center, our goal was to standardize electronic components and blueprints in order to reduce costs and increase agility. My first objective was to build a tool that enables each stakeholder to access the relevant data from different sources for each component or module. The second objective was to convince everyone to use it. I met each stakeholder and gathered the relevant data. Thanks to those successful collaborations I created a tool that simplified and fastened a complex decision-making process as well as reduced the number of references was reduced.
+Being a Team Player and an Excellent Communicator helped me to work effectively in groups and embody the Agile values. 
+
+Working as a project buyer of electronic components at [Schneider Electric](https://www.schneider-electric.co.uk/en/), I was involved in a team in the R&D center, our goal was to standardize electronic components and blueprints in order to reduce costs and increase agility. My first objective was to build a tool that enables each stakeholder to access the relevant data from different sources for each component or module. The second objective was to convince everyone to use it. I met each stakeholder and gathered the relevant data. Thanks to those successful collaborations I created a tool that simplified and fastened a complex decision-making process as well as reduced the number of references was reduced.
 
 - Feedback - Sherif Shendidy - Student at Makers - Collaborated on the final project: "You were also a great team player, with great sense of humor and ability engage in a focused fruitful conversation to solve problems and plan for the works ahead of us."
 
 ### Fast Learner - Adaptive
 
-As a software developer, being a Fast Leaner and Adaptative helped me to deeply understand new languages and how entire stacks work together. I went to live in Russia as part of my business studies. When I arrived, I knew only the alphabet, I was determined to have a work experience there, so I seized all opportunities to improve my language skills and to understand the culture, I took additional courses, I offered a lot of language exchanges and I went to plenty of meetups. I impressed the locals, I grew my network and I got a working experience at [Schneider Electric](https://www.schneider-electric.co.uk/en/) in marketing. 
+Being a Fast Leaner and Adaptative helped me to deeply understand new languages and how entire stacks work together.
+
+I went to live in Russia as part of my business studies. When I arrived, I knew only the alphabet, I was determined to have a work experience there, so I seized all opportunities to improve my language skills and to understand the culture, I took additional courses, I offered a lot of language exchanges and I went to plenty of meetups. I impressed the locals, I grew my network and I got a working experience at [Schneider Electric](https://www.schneider-electric.co.uk/en/) in marketing. 
 
 - Feedback - Michael Graham, Sales Expert, MJB Graham Founder, Director of Entrepreneurship at Genisys (Charity): “Adrien has an incredible work ethic blended with a great student mentality. During his time at MJB he proved himself to be a fast learner and demonstrated a willingness to continuously go the extra mile to generate results."
 
 ### Thrives Under Pressure - Resourceful
 
-As a software developer, Thriving under Pressure and being Resourceful helps to prioritize and maintain an Agile pace.
+Thriving under Pressure and being Resourceful helps to prioritize and maintain an Agile pace.
 
 - Feedback - Mursal Hedayat, CEO at [Chatterbox](https://www.chatterbox.io/), FounderForbes 30 Under 30 Social Entrepreneur:
 “It was a delightful working with Adrien. He produced a highly engaging and well attended MakeSense workshop for Chatterbox in very little time. He was very attentive to our needs and delivered outputs that far exceeded our expectations.”
