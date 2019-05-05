@@ -45,7 +45,7 @@ The following projects are exercises where I focused on learning the best practi
 
 As a software developer, being Self-Driven and Perseverant helps me to keep my focus, to constantly learn and to solve complex problems. This strong drive enabled me to grow from studying vocational electronics and working in food processing factories, up to getting a Master in Business Engineering, leading design thinking events and collaborating with innovative entrepreneurs.
 
-- Feedback - Rohan Metha - from [MakeSense](https://makesense.org/en/) (open source volunteer-driven network creating design thinking events): "Adrien demonstrates a really strong work ethic. If he says he will do something he will go to great lengths to make sure it gets done. I have also found that he learns very quickly. If he is interested in something he will dive head first into it, contacting people to talk to and create opportunities to learn as much as he can by doing."
+- Feedback - Rohan Metha - from [MakeSense](https://makesense.org/en/) (open source volunteer-driven network creating design thinking events): "Adrien demonstrates a really strong work ethic. If he says he will do something he will go to great lengths to make sure it gets done. I have also found that he learns very quickly."
 
 - Feedback - Sherif Shendidy - Student at Makers - Collaborated the final project: "You were so dedicated, your thoughts were very organised, and it was so helpful the way you diagrammed the options we had and plans/routes we can follow to deliver the required feature."
 
@@ -69,7 +69,7 @@ Also, working alone, with a pair, with a mentor or with a mentee were very inter
 
 As a software developer, being an Analitical Thinker and Learning from Diversity helped me to listen deeply my collaborators and to make sense of complex systems quickly. Having self-funded my journey, I almost always worked and studied, I could have meetings during the day with Oxford Business School MBA students, and on the evening I was working with people from low wage European countries trying to climb the social ladder. This diversity enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. Collaborators in various projects highlighted my abilities to research, to analyze data, to make decisions, to think critically, to be creative and to communicate efficiently thanks to this understanding.
 
-- Feedback - Krzysztof Balejko - Student at Makers - Paring: "Adrien starts each of his projects with careful planing and I was invited to join in before both bowling and front-end API challenges. During the process Adrien has demonstrated his abilities of modelling user interaction. We have used Realtime Board during both sessions for diagraming and general brainstorming."
+- Feedback - Krzysztof Balejko - Student at Makers - Paring: "Adrien starts each of his projects with careful planing and I was invited to join in before both bowling and front-end API challenges. During the process Adrien has demonstrated his abilities of modelling user interaction."
 
 - Feedback - Dan Groze - Student at Makers - Collaborated on the final project: "I like that you always start tackling a problem with lots of planning, you are a master at diagramming and modelling. This helped all our team during our final project to understand our task better.
 
