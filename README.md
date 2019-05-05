@@ -41,68 +41,54 @@ The following projects are exercises where I focused on learning the best practi
 
 ## Skills
 
-#### Self-driven - Perseverant
+### Self-driven - Perseverant
 
-As a software developer, being Self-Driven and Perseverant helps me to keep my focus, to constantly learn and to solve complex problems.
-
-This strong drive enabled me to grow from studying vocational electronics and working in food processing factories, up to getting a Master in Business Engineering, leading design thinking events and collaborating with innovative entrepreneurs.
+As a software developer, being Self-Driven and Perseverant helps me to keep my focus, to constantly learn and to solve complex problems. This strong drive enabled me to grow from studying vocational electronics and working in food processing factories, up to getting a Master in Business Engineering, leading design thinking events and collaborating with innovative entrepreneurs.
 
 - Feedback - Rohan Metha - from [MakeSense](https://makesense.org/en/) (open source volunteer-driven network creating design thinking events): "Adrien demonstrates a really strong work ethic. If he says he will do something he will go to great lengths to make sure it gets done. I have also found that he learns very quickly. If he is interested in something he will dive head first into it, contacting people to talk to and create opportunities to learn as much as he can by doing."
 
-- Feedback - Sherif Shendidy - Student at Makers - Collaborated on What Zen, the final project: "You were so dedicated, your thoughts were very organised, and it was so helpful the way you diagrammed the options we had and plans/routes we can follow to deliver the required feature."
+- Feedback - Sherif Shendidy - Student at Makers - Collaborated the final project: "You were so dedicated, your thoughts were very organised, and it was so helpful the way you diagrammed the options we had and plans/routes we can follow to deliver the required feature."
 
 I also joined those two 6 months long programmes as a participant and as a co-creator to dig into my drives:
 
 - Peer-led learning accelerator - [Enrol Yourself - Learning Marathon](https://enrolyourself.com/learning-marathon) (2018)
-  - Researched and experimented on ways to cultivate social impact leadership, leading workshops about playful-discipline.
+  - Researched and experimented on ways to cultivate social impact leadership, led workshops about playful-discipline.
 
 - Experiential learning - [u.lab: Leading From the Emerging Future](https://www.edx.org/course/ulab-leading-from-the-emerging-future-15-671-1x-1) (2017)
-  - Explored systems leadership to address today’s complex societal challenges, co-created experiments personal development.
+  - Explored systems leadership to address today’s complex societal challenges, focused on [Theory U](https://www.presencing.org/aboutus/theory-u), developed at MIT.
 
-#### Problem solver - Learning from Collaborations
+### Problem solver - Learning from Collaborations
 
-As a software developer, being a Problem Solver and Learning from Collaborations helps me to handle a very large diversity of challenges and to constantly progress.
+As a software developer, being a Problem Solver and Learning from Collaborations helps me to handle a very large diversity of challenges and to constantly progress. This process and mindset that I enhanced at Makers software engineering bootcamp helps me to know how to break down tasks into small pieces. For example, working in a group, while brainstorming, I would facilitate and draw on a board what we are trying solve to keep the dicussion focused.
 
-This process and mindset that I enhanced at Makers software engineering bootcamp helps me to know how to break down tasks into small pieces. For example, working in a group, while brainstorming, I would facilitate and draw on a board what we are trying solve to keep the dicussion focused.
-
-- Feedback - Diptis Hadler - Student at Makers - Collaborated on What Zen, the final project: "In general he led the ideation and planning sessions that we had, writing notes and diagrams on the whiteboard to capture the salient points from the discussions we were having as a team. This helped us to focus on the key issues and explore ideas more effectively."
+- Feedback - Diptis Hadler - Student at Makers - Collaborated on the final project: "In general he led the ideation and planning sessions that we had, writing notes and diagrams on the whiteboard to capture the salient points from the discussions we were having as a team. This helped us to focus on the key issues and explore ideas more effectively."
 
 Also, working alone, with a pair, with a mentor or with a mentee were very interesting ways to learn from other problem solving methodologies, at each step of the TDD, debugging or refactoring process, I enriched my own processes.
 
 - Feedback - Sam Morgan - Makers' Head of Education - [Full feedback here](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio#global-feedback-from-makers-head-of-education): "You program fast and fluidly, move quickly around the process, and have inventive and thoughtful approaches to solving tough problems."
 
-#### Analytical Thinker - Learning from Diversity
+### Analytical Thinker - Learning from Diversity
 
-As a software developer, being an Analitical Thinker and Learning from Diversity helped me to listen deeply my collaborators and to make sense of complex systems quickly.
-
-Having self-funded my journey, I almost always worked and studied, I could have meetings during the day with Oxford Business School MBA students, and on the evening I was working with people from low wage European countries trying to climb the social ladder. This diversity enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. 
-
-Collaborators in various projects highlighted my abilities to research, to analyze data, to make decisions, to think critically, to be creative and to communicate efficiently thanks to this understanding.
+As a software developer, being an Analitical Thinker and Learning from Diversity helped me to listen deeply my collaborators and to make sense of complex systems quickly. Having self-funded my journey, I almost always worked and studied, I could have meetings during the day with Oxford Business School MBA students, and on the evening I was working with people from low wage European countries trying to climb the social ladder. This diversity enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. Collaborators in various projects highlighted my abilities to research, to analyze data, to make decisions, to think critically, to be creative and to communicate efficiently thanks to this understanding.
 
 - Feedback - Krzysztof Balejko - Student at Makers - Paring: "Adrien starts each of his projects with careful planing and I was invited to join in before both bowling and front-end API challenges. During the process Adrien has demonstrated his abilities of modelling user interaction. We have used Realtime Board during both sessions for diagraming and general brainstorming."
 
-- Feedback - Dan Groze - Student at Makers - Collaborated on What Zen, the final project: "I like that you always start tackling a problem with lots of planning, you are a master at diagramming and modelling. This helped all our team during our final project to understand our task better.
+- Feedback - Dan Groze - Student at Makers - Collaborated on the final project: "I like that you always start tackling a problem with lots of planning, you are a master at diagramming and modelling. This helped all our team during our final project to understand our task better.
 
 
-#### Team Player - Excellent Communicator
+### Team Player - Excellent Communicator
 
-As a software developer, being a Team Player and an Excellent Communicator helped me to work effectively in groups and embody the Agile values.
+As a software developer, being a Team Player and an Excellent Communicator helped me to work effectively in groups and embody the Agile values. Working as a project buyer of electronic components at [Schneider Electric](https://www.schneider-electric.co.uk/en/), I was involved in a team in the R&D center, our goal was to standardize electronic components and blueprints in order to reduce costs and increase agility. My first objective was to build a tool that enables each stakeholder to access the relevant data from different sources for each component or module. The second objective was to convince everyone to use it. I met each stakeholder and gathered the relevant data. Thanks to those successful collaborations I created a tool that simplified and fastened a complex decision-making process as well as reduced the number of references was reduced.
 
-Working as a project buyer of electronic components at [Schneider Electric](https://www.schneider-electric.co.uk/en/), I was involved in a team in the R&D center, our goal was to standardize electronic components and blueprints in order to reduce costs and increase agility. My first objective was to build a tool that enables each stakeholder to access the relevant data from different sources for each component or module. The second objective was to convince everyone to use it. 
+- Feedback - Sherif Shendidy - Student at Makers - Collaborated on the final project: "You were also a great team player, with great sense of humor and ability engage in a focused fruitful conversation to solve problems and plan for the works ahead of us."
 
-I met each stakeholder and gathered the relevant data. Thanks to those successful collaborations I created a tool that simplified and fastened a complex decision-making process as well as reduced the number of references was reduced.
+### Fast Learner - Adaptive
 
-- Feedback - Sherif Shendidy - Student at Makers - Collaborated on What Zen, the final project: "You were also a great team player, with great sense of humor and ability engage in a focused fruitful conversation to solve problems and plan for the works ahead of us."
-
-#### Fast Learner - Adaptive
-
-As a software developer, being a Fast Leaner and Adaptative helped me to deeply understand new languages and how entire stacks work together.
-
-I wanted to explore the BRICS countries, I went to live in Russia as part of my business studies. When I arrived, I knew only the alphabet, I was determined to have a work experience there, so I seized all opportunities to improve my language skills and to understand the culture, I took additional courses, I offered a lot of language exchanges and I went to plenty of meetups. I impressed the locals, I grew my network and I got a working experience at [Schneider Electric](https://www.schneider-electric.co.uk/en/) in marketing. 
+As a software developer, being a Fast Leaner and Adaptative helped me to deeply understand new languages and how entire stacks work together. I went to live in Russia as part of my business studies. When I arrived, I knew only the alphabet, I was determined to have a work experience there, so I seized all opportunities to improve my language skills and to understand the culture, I took additional courses, I offered a lot of language exchanges and I went to plenty of meetups. I impressed the locals, I grew my network and I got a working experience at [Schneider Electric](https://www.schneider-electric.co.uk/en/) in marketing. 
 
 - Feedback - Michael Graham, Sales Expert, MJB Graham Founder, Director of Entrepreneurship at Genisys (Charity): “Adrien has an incredible work ethic blended with a great student mentality. During his time at MJB he proved himself to be a fast learner and demonstrated a willingness to continuously go the extra mile to generate results."
 
-#### Thrives Under Pressure - Resourceful
+### Thrives Under Pressure - Resourceful
 
 As a software developer, Thriving under Pressure and being Resourceful helps to prioritize and maintain an Agile pace.
 
