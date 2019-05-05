@@ -8,11 +8,11 @@ A curious, self-driven and perseverant **Software Engineer**.
 
 I cultivate my growth mindset, from studying vocational electronics up to a Master in business engineering, fascinated by technologies and languages (native French, conversational Russian). Derived from my involvement in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. 
 
-- You can find more about myself on [adrienfabre.dev](http://adrienfabre.dev/).
+More about my journey at [adrienfabre.dev](http://adrienfabre.dev/).
 
 I have just graduated from [Makers software engineering bootcamp](https://makers.tech/), I am looking for place where I can contribute to a culture of innovation, continuous progress and diversity, a role where I can consolidate and extend my programming knowledge, notably in a compiled language, while also gaining exposure to product management and DevOps. 
 
-- You can find more about what I learnt on [my Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio).
+More about what I learnt on [my Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio).
 
 ## Projects
 
@@ -142,7 +142,7 @@ You can find more about what I learnt on [my Makers Portfolio](https://github.co
 **Community Coordinator and Facilitator - Freelance - [MakeSense](https://makesense.org/en/) - [Freeformers](https://freeformers.com/) - Itakepart** (2016 to 2018)
 
 - Organized, designed and facilitated 15+ design thinking workshops to help social entrepreneurs.
-- Led a 90+ people event (tinyurl.com/zxfrhq4) and created collaborative tools to manage 10+ volunteers.
+- Led a [90+ people event](tinyurl.com/zxfrhq4) and created collaborative tools to manage 10+ volunteers.
 - Trained 30 trainers to deliver workshops as part of Facebook’s Community Boost EU program.
 
 **Business Development and Consulting - Freelance - MJB Graham** (2014 to 2015)
