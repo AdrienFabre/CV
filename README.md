@@ -21,7 +21,7 @@ I created this [Makers portfolio](https://github.com/AdrienFabre/makers_coding_b
 
 The following projects are full-stack projects where I focused on learning Team Work, Scrum and Version Control in addition of new languages.
 
-| Title + link to Git | Stack |
+| Title | Stack |
 | --- | --- |
 | [Minimalist version of Trello + chat](https://github.com/what-zen/what-zen-app) [Deployed version here](https://what-zen-app.firebaseapp.com) | React - Firebase Database and Authentification - Cypress |
 | [Minimalist version of Facebook](https://github.com/simian-sinister/Acebook-Simian-Sinister) | Ruby on Rails - PostgreSQL Database - Active Record ORM - Devise Authentification - Capybara - RSpec |
@@ -29,7 +29,7 @@ The following projects are full-stack projects where I focused on learning Team 
 
 The following projects are exercises where I focused on learning the best practices of TDD, Debugging and Refactoring in different environments.
 
-| Title + link to Git | Stack |
+| Title | Stack |
 | --- | --- |
 | [Bowling challenge](https://github.com/AdrienFabre/bowling-typescript) | TypeScript and Jest |
 | [Airport challenge](https://github.com/AdrienFabre/airport_challenge_js) | JavaScript and Jasmine | New language |
