@@ -68,7 +68,7 @@ Also, working alone, with a pair, with a mentor or with a mentee were very inter
 
 ### Analytical Thinker - Learning from Diversity
 
-Being an Analitical Thinker and Learning from Diversity helped me to listen deeply my collaborators and to make sense of complex systems quickly. 
+Being an Analitical Thinker and Learning from Diversity helps me to listen deeply to my collaborators and to make sense of complex systems quickly. 
 
 Having self-funded my journey, I almost always worked and studied, I could have meetings during the day with Oxford Business School MBA students, and on the evening I was working with people from low wage European countries trying to climb the social ladder. This diversity enriched my perspectives, it enabled me to quickly understand the big picture as well as the details of a situation. Collaborators in various projects highlighted my abilities to research, to analyze data, to make decisions, to think critically, to be creative and to communicate efficiently thanks to this understanding.
 
@@ -87,7 +87,7 @@ Working as a project buyer of electronic components at [Schneider Electric](http
 
 ### Fast Learner - Adaptive
 
-Being a Fast Leaner and Adaptative helped me to deeply understand new languages and how entire stacks work together.
+Being a Fast Leaner and Adaptative helps me to deeply understand new languages and how entire stacks work together.
 
 I went to live in Russia as part of my business studies. When I arrived, I knew only the alphabet, I was determined to have a work experience there, so I seized all opportunities to improve my language skills and to understand the culture, I took additional courses, I offered a lot of language exchanges and I went to plenty of meetups. I impressed the locals, I grew my network and I got a working experience at [Schneider Electric](https://www.schneider-electric.co.uk/en/) in marketing. 
 
