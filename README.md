@@ -74,7 +74,7 @@ Having self-funded my journey, I almost always worked and studied, I could have 
 
 - Feedback - Krzysztof Balejko - Student at Makers - Paring: "Adrien starts each of his projects with careful planing and I was invited to join in before both bowling and front-end API challenges. During the process Adrien has demonstrated his abilities of modelling user interaction."
 
-- Feedback - Dan Groze - Student at Makers - Collaborated on the final project: "I like that you always start tackling a problem with lots of planning, you are a master at diagramming and modelling. This helped all our team during our final project to understand our task better.
+- Feedback - Dan Groze - Student at Makers - Collaborated on the final project: "I like that you always start tackling a problem with lots of planning, you are a master at diagramming and modelling. This helped all our team during our final project to understand our task better."
 
 
 ### Team Player - Excellent Communicator
