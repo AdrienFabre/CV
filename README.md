@@ -25,7 +25,7 @@ The following projects are full-stack projects where I focused on learning Team 
 | --- | --- |
 | [Minimalist version of Trello + chat](https://github.com/what-zen/what-zen-app) [Deployed version here](https://what-zen-app.firebaseapp.com) | React - Firebase Database and Authentification - Cypress |
 | [Minimalist version of Facebook](https://github.com/simian-sinister/Acebook-Simian-Sinister) | Ruby on Rails - PostgreSQL Database - Active Record ORM - Devise Authentification - Capybara - RSpec |
-| [Minimalist version of AirBnB](https://github.com/AdrienFabre/makersbnb) |  React - PostgreSQL Database - Sequelizer ORM - Express - Node - Express - Node - Cypress - Jasmine |
+| [Minimalist version of AirBnB](https://github.com/AdrienFabre/makersbnb) |  React - PostgreSQL Database - Sequelizer ORM - Express - Node - Express - Node - Cypress - Jasmine - Postman |
 
 The following projects are exercises where I focused on learning the best practices of TDD, Debugging and Refactoring in different environments.
 
