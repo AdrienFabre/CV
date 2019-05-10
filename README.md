@@ -10,14 +10,14 @@ I cultivate my growth mindset, from studying vocational electronics up to a Mast
 
 More about my journey at [adrienfabre.dev](http://adrienfabre.dev/).
 
-I have just graduated from [Makers software engineering bootcamp](https://makers.tech/), I am looking for place where I can contribute to a culture of innovation, continuous progress and diversity, a role where I can consolidate and extend my programming knowledge, notably in a compiled language, while also gaining exposure to product management and DevOps. 
+I have just graduated from [Makers software engineering bootcamp](https://makers.tech/), I am looking for a role where I can contribute to a culture of innovation, continuous progress and diversity, a role where I can consolidate and extend my programming knowledge, notably in a compiled language, while also gaining exposure to product management and DevOps. 
 
 More about what I learnt on [my Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio).
 
 ## Projects
 
-Each project has contributed to my learnings at [Makers Academy](https://github.com/makersacademy).The focus has been to learn to learn faster and to implement the best practices, notably Test Driven Development and Agile Scrum methodologies. 
-I created this [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) to anchore my learnings.
+Each project has contributed to my learnings at [Makers Academy](https://github.com/makersacademy). The focus has been to learn to learn faster and to implement the best practices, notably Test Driven Development and Agile Scrum methodologies. 
+I created this [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) to anchor my learnings.
 
 The following projects are full-stack projects where I focused on learning Team Work, Scrum and Version Control in addition of new languages.
 
@@ -159,6 +159,6 @@ You can find more about what I learnt on [my Makers Portfolio](https://github.co
 
 ## Interests
 - Swimming - I recently succeeded to swim over 3km - Hiking - Pyrenees(home) is my playground.
-- Yoga - Streching my body as much as my mind - Meditation - Last year I did a week retreat in Scotland.
-- Personal Development and Innovation - enhancing my experience of life, I watched watched hundreds of [TED Talks](https://ted.com).
-- Chasing social and technological innovations - anything that enhance my contribution in this world.
+- Yoga - Stretching my body as much as my mind - Meditation - Last year I did a week retreat in Scotland.
+- Personal Development and Innovation - enhancing my experience of life, I watched hundreds of [TED Talks](https://ted.com).
+- Chasing social and technological innovations - anything that enhances my contribution in this world.
