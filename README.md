@@ -6,7 +6,7 @@ Further info: [Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bo
 
 A curious, self-driven and perseverant **Software Engineer**.
 
-I cultivate my growth mindset, from studying vocational electronics up to a Master in business engineering, fascinated by technologies and languages (native French, conversational Russian). Derived from my involvement in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. 
+I constantly train my growth mindset, making my way up from studying Vocational Electronics up to a Master in Business Engineering or exploring new technologies and languages(native French, conversational Russian). Being involved in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. Evolving in the business and tech environments, I am an agile team player. 
 
 More about my journey at [adrienfabre.dev](http://adrienfabre.dev/).
 
@@ -16,7 +16,10 @@ More about what I learnt on [my Makers Portfolio](https://github.com/AdrienFabre
 
 ## Projects
 
-Each project has contributed to my learnings at [Makers Academy](https://github.com/makersacademy). The focus has been to learn to learn faster and to implement the best practices, notably Test Driven Development and Agile Scrum methodologies. 
+Each project has contributed to my learnings at [Makers Academy](https://github.com/makersacademy). 
+
+My focus has been to expand my ability to learn fast and to collaborate efficiently while implementing the best practices such as Test Driven Development and Agile Scrum methodology.
+
 I created this [Makers portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio) to anchor my learnings.
 
 The following projects are full-stack projects where I focused on learning Team Work, Scrum and Version Control in addition of new languages.
