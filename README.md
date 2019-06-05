@@ -6,7 +6,7 @@ Further info: [Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bo
 
 A curious, self-driven and perseverant **Software Engineer**.
 
-I constantly train my growth mindset, making my way up from studying Vocational Electronics up to a Master in Business Engineering or exploring new technologies and languages(native French, conversational Russian). Being involved in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. Evolving in the business and tech environments, I am an agile team player. 
+I constantly train my growth mindset, making my way up from studying Vocational Electronics up to a Master in Business Engineering or exploring new technologies and languages(native French, conversational Russian). Being involved in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. Evolving in business and tech environments, I am an agile team player. 
 
 More about my journey at [adrienfabre.dev](http://adrienfabre.dev/).
 
