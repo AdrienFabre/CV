@@ -162,6 +162,6 @@ You can find more about what I learnt on [my Makers Portfolio](https://github.co
 
 ## Interests
 - Swimming - I recently succeeded to swim over 3km - Hiking - Pyrenees(home) is my playground.
-- Yoga - Stretching my body as much as my mind - Meditation - Last year I did a week retreat in Scotland.
-- Personal Development and Innovation - enhancing my experience of life, I watched hundreds of [TED Talks](https://ted.com).
+- Yoga - Stretching my body as much as my mind - Meditation - Daily -Did a week retreat in Scotland.
+- Personal development and innovation - enhancing my experience of life, I watched hundreds [TED Talks](https://ted.com).
 - Chasing social and technological innovations - anything that enhances my contribution in this world.
