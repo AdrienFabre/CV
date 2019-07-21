@@ -6,13 +6,11 @@ Further info: [Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bo
 
 A curious, self-driven and perseverant **Software Engineer**.
 
-I constantly train my growth mindset, making my way up from studying Vocational Electronics up to a Master in Business Engineering or exploring new technologies and languages(native French, conversational Russian). Being involved in entrepreneurship, social innovation, and education, I built strong analytical, collaborative and adaptive abilities. Evolving in business and tech environments, I am an agile team player. 
-
+Training my growth mindset, I made my way up from studying Vocational Electronics up to a Master in Business Engineering, exploring new technologies and languages(native French, conversational Russian). Being involved in entrepreneurship and social innovation, I built strong analytical, collaborative and adaptive abilities. 
 More about my journey at [adrienfabre.dev](http://adrienfabre.dev/).
 
-I have just graduated from [Makers software engineering bootcamp](https://makers.tech/), I am looking for a role where I can contribute to a culture of innovation, continuous progress and diversity, a role where I can consolidate and extend my programming knowledge, notably in a compiled language, while also gaining exposure to product management and DevOps. 
 
-More about what I learnt on [my Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio).
+As a recent graduate from [Makers software engineering bootcamp](https://makers.tech/), an intensive software engineering bootcamp, I am looking for a role where I can contribute to a culture of innovation, continuous progress and diversity, where I can consolidate my abilities to implement best practices such as TDD, Agile and pairing. Where I create high quality software and social impact. More about what I learnt on [my Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bootcamp_portfolio).
 
 ## Projects
 
@@ -26,18 +24,25 @@ The following projects are full-stack projects where I focused on learning Team 
 
 | Title | Stack |
 | --- | --- |
-| [Minimalist version of Trello + chat](https://github.com/what-zen/what-zen-app) [Deployed version here](https://what-zen-app.firebaseapp.com) | React - Firebase Database and Authentification - Cypress |
-| [Minimalist version of Facebook](https://github.com/simian-sinister/Acebook-Simian-Sinister) | Ruby on Rails - PostgreSQL Database - Active Record ORM - Devise Authentification - Capybara - RSpec |
-| [Minimalist version of AirBnB](https://github.com/AdrienFabre/makersbnb) |  React - PostgreSQL Database - Sequelizer ORM - Express - Node - Express - Node - Cypress - Jasmine - Postman |
+| [Minimalist Trello + chat](https://github.com/what-zen/what-zen-app) [Deployed version here](https://what-zen-app.firebaseapp.com) | React - Firebase Database and Authentification - Cypress |
+| [Minimalist Facebook wall](https://github.com/simian-sinister/Acebook-Simian-Sinister) | Ruby on Rails - PostgreSQL Database - Active Record ORM - Devise Authentification - Capybara - RSpec |
+| [Simple Vision Board](https://github.com/AdrienFabre/Simple-Vision-Board) | Vue - Cypress - Express - NodeJS - MongoDB Atlas |
+| [Minimalist AirBnB](https://github.com/AdrienFabre/makersbnb) |  React - PostgreSQL Database - Sequelizer ORM - Express - Node - Express - Node - Cypress - Jasmine - Postman |
 
 The following projects are exercises where I focused on learning the best practices of TDD, Debugging and Refactoring in different environments.
 
 | Title | Stack |
 | --- | --- |
 | [Bowling challenge](https://github.com/AdrienFabre/bowling-typescript) | TypeScript and Jest |
-| [Airport challenge](https://github.com/AdrienFabre/airport_challenge_js) | JavaScript and Jasmine |
+| [Airport challenge](https://github.com/AdrienFabre/airport_challenge_js) - [Robotic hoover](https://github.com/AdrienFabre/robotic-hoover) | JavaScript and Jasmine of Jest |
 | [Minimalist version of Instagram](https://github.com/AdrienFabre/instagram-challenge) | Ruby and RSpec with Rails and Devise |
-| [Takeaway challenge](https://github.com/AdrienFabre/takeaway-challenge-ruby) - [Bank challenge](https://github.com/AdrienFabre/bank_tech_test_ruby) - [Echo challenge](https://github.com/AdrienFabre/echo_ruby) | Ruby and RSpec |
+| [Takeaway challenge](https://github.com/AdrienFabre/takeaway-challenge-ruby) - [Bank challenge](https://github.com/AdrienFabre/bank_tech_test_ruby) - [Echo challenge](https://github.com/AdrienFabre/echo_ruby) - [Vending machine](https://github.com/AdrienFabre/vending-machine) - [Webpages data sorter](https://github.com/AdrienFabre/webpages-data-sorter) - [Picture picker](https://github.com/AdrienFabre/picture-picker) | Ruby and RSpec |
+
+### Feedback from interviews:
+
+- "I particularly liked how you made the code test so human; dealing with user journeys to give it real life purpose!"
+
+- "They thought you came across very switched on and intelligent, and were impressed as you were the only person to do C#. They said the technical interview went well, and they liked how you were able to make use of online resources for C#. You could talk about what wasn’t covered in unit tests (they said you acknowledged you could do more)"
 
 ## Skills
 
