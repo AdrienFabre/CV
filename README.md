@@ -4,7 +4,7 @@ Further info: [Makers Portfolio](https://github.com/AdrienFabre/makers_coding_bo
 
 ## About
 
-A curious, self-driven and perseverant **Software Engineer**. I inserted feedback in this CV, a short PDF version is available here.
+A curious, self-driven and perseverant **Software Engineer**. This CV has feedback, a short PDF version is available [here](https://adrienfabre.dev/).
 
 Training my growth mindset, I made my way up from studying Vocational Electronics up to a Master in Business Engineering, exploring new technologies and languages(native French, conversational Russian). Being involved in entrepreneurship and social innovation, I built strong analytical, collaborative and adaptive abilities. 
 More about my journey at [adrienfabre.dev](http://adrienfabre.dev/).
