@@ -14,7 +14,22 @@ As a recent graduate from [Makers software engineering bootcamp](https://makers.
 
 ## Projects
 
-Each project has contributed to my learnings at [Makers Academy](https://github.com/makersacademy). 
+Full-stack (AWS - Serverless - NodeJs - React - Xero API)
+
+- Designed and created entirely an internal tool to facilitate reconciliation between bank transactions from Xero API and transactions from the database, collaborating with accountants and the reconciliation team.
+- Created an internal tool to test all our AWS API and databases and find errors with ease.
+
+Backend (AWS - Serverless - NodeJs)
+
+- Created a mircoservice to resize and save to S3 all pictures from external links using resize tool Sharp.
+
+Frontend (ReactJs - Airtable API)
+
+- Improved the UI for the order fulfilment team using API endpoints, increased speed and ease.
+- Redesigned and tested UI for the resources team to update DynamoDB from Airtable API with ease.
+
+
+Each of the following projects has contributed to my learnings at [Makers Academy](https://github.com/makersacademy). 
 
 My focus has been to expand my ability to learn fast and to collaborate efficiently while implementing the best practices such as Test Driven Development and Agile Scrum methodology.
 
@@ -110,7 +125,14 @@ Thriving under Pressure and being Resourceful helps me to prioritize and maintai
 
 - Feedback - Rohan Metha - from [MakeSense](https://makesense.org/en/) (open source volunteer-driven network creating design thinking events): "6 months after he attended his first MakeSense workshop Adrien was the lead in organising a large-scale event “Food Glorious Food” tackling food waste with a full day event with workshops, activities, and talks featuring 12 different social entrepreneurs in the food sustainability sector. Adrien found the venue, negotiated using it for free, came up with the concept, created the marketing materials and was directing 6 other volunteers to pull off a really successful event."
 
-## Education
+## Experiences
+
+#### Full-stack Software Developer- [BetterSpace](https://www.betterspace.uk/) (2019 to 2020)
+
+- Created, refactored, tested and extended AWS microservices with Serverless and NodeJs. (see projects)
+- Used CloudFormation templates, API Gateway, Lambda, DynamoDB and S3, also regularly used CloudWatch, IAM, Cognito and Amplify.
+- Designed and created entire features from Frontend to Backend, using ReactJs and mutiple API.
+- Facilitated Scrum Ceremonies within weekly sprints and contributed to collaborative design sessions.
 
 #### Software Engineering - [Makers Academy](https://github.com/makersacademy) (2018 to 2019)
 
@@ -128,6 +150,37 @@ You can find more about what I learnt on [my Makers Portfolio](https://github.co
 
 - Feedback - Tenebrousedge - Mentor at Exercism: "Perfect. This is the best-performing solution, and the one that we use to explain the concepts of this exercise."
 
+#### Community Coordinator and Facilitator - Freelance - [MakeSense](https://makesense.org/en/) - [Freeformers](https://freeformers.com/) - Itakepart (2016 to 2018)
+
+- Organized, designed and facilitated 15+ design thinking workshops to help social entrepreneurs.
+- Led a [90+ people event](tinyurl.com/zxfrhq4) and created collaborative tools to manage 10+ volunteers.
+- Trained 30 trainers to deliver workshops as part of Facebook’s Community Boost EU program.
+
+#### Business Development and Consulting - Freelance - MJB Graham** (2014 to 2015)
+
+- Led 50+ consultations to structure and improve offers, sales channels, processes and pitches.
+- Instigated partnerships with businesses and communities to reach the companies’ target audience.
+- Acquired prospects from face to face and online networking to conclude deals using a CRM system.
+
+#### Project Buyer - [Schneider Electric](https://www.schneider-electric.co.uk/en/)** (2012 to 2013)
+
+- Created and implemented Excel-based shared tools which increased profit while also improving decision making and team efficiency through consensus building, performance optimization and best practice sharing.
+- Defined needs with engineers, collaborated with different departments, prepared requests for purchase quotations, analyzed offers, negotiated with suppliers and trained staff to use tools (Combination of KPI, supplier mapping and cost database).
+
+#### Marketing and Communication Assistant - [Schneider Electric](https://www.schneider-electric.co.uk/en/) (2012)
+
+- Organized, promoted and created content for Schneider Electric workshop during the AIESEC International Congress that resulted in 4 innovative concepts to enhance the company’s goals.
+
+## Education
+
+#### Peer-led learning accelerator - Enroll Yourself - [Learning Marathon](https://www.enrolyourself.com/learning-marathon) (2018)
+
+- Experimented ways to cultivate social impact leadership; led workshops about playful-discipline.
+
+#### Experiential learning - [u.lab: Leading from the Emerging Future](https://www.edx.org/course/ulab-leading-from-the-emerging-future) (2017)
+
+- Explored systems leadership to address complex societal challenges, with Theory U developed at MIT.
+
 #### MSc in Business Engineering - [KEDGE Business School](https://student.kedge.edu/) (2010 to 2013)
 
 - Studied project and innovation management, purchasing, strategy, marketing B2B and solution selling.
@@ -142,31 +195,9 @@ You can find more about what I learnt on [my Makers Portfolio](https://github.co
 - Aeronautics: assisted in maintenance operations on helicopters.
 - Previous Diplomas: BTEC National Diploma, BTEC First Diploma of Electronics.
 
-## Experiences
-
-**Community Coordinator and Facilitator - Freelance - [MakeSense](https://makesense.org/en/) - [Freeformers](https://freeformers.com/) - Itakepart** (2016 to 2018)
-
-- Organized, designed and facilitated 15+ design thinking workshops to help social entrepreneurs.
-- Led a [90+ people event](tinyurl.com/zxfrhq4) and created collaborative tools to manage 10+ volunteers.
-- Trained 30 trainers to deliver workshops as part of Facebook’s Community Boost EU program.
-
-**Business Development and Consulting - Freelance - MJB Graham** (2014 to 2015)
-
-- Led 50+ consultations to structure and improve offers, sales channels, processes and pitches.
-- Instigated partnerships with businesses and communities to reach the companies’ target audience.
-- Acquired prospects from face to face and online networking to conclude deals using a CRM system.
-
-**Project Buyer - [Schneider Electric](https://www.schneider-electric.co.uk/en/)** (2012 to 2013)
-
-- Created and implemented Excel-based shared tools which increased profit while also improving decision making and team efficiency through consensus building, performance optimization and best practice sharing.
-- Defined needs with engineers, collaborated with different departments, prepared requests for purchase quotations, analyzed offers, negotiated with suppliers and trained staff to use tools (Combination of KPI, supplier mapping and cost database).
-
-**Marketing and Communication Assistant - [Schneider Electric](https://www.schneider-electric.co.uk/en/)** (2012)
-
-- Organized, promoted and created content for Schneider Electric workshop during the AIESEC International Congress that resulted in 4 innovative concepts to enhance the company’s goals.
-
 ## Interests
-- Swimming - I recently succeeded to swim over 3km - Hiking - Pyrenees(home) is my playground.
-- Yoga - Stretching my body as much as my mind - Meditation - Daily -Did a week retreat in Scotland.
+
+- Swimming - Hiking - Loving to mix both. Yoga - Got the 200h Yoga Teacher Training Course in Varkala, India.
 - Personal development and innovation - enhancing my experience of life, I watched hundreds [TED Talks](https://ted.com).
 - Chasing social and technological innovations - anything that enhances my contribution in this world.
+- Recently went to CogX AI conference and hackathons such as future of work, work-spaces and happiness.
